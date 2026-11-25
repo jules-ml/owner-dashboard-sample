@@ -1,0 +1,251 @@
+QuickBooks Online invoice export — Lantern Key Pool & Air — 11/20/2026
+Invoice #,Inv Date,Due Date,Customer Name,Email,Phone,Service,Amount,Tax,Status,Payment Date,Payment Amt,Method,Notes
+INV1189,4/28/26,05.13.2026,J. Cole,jasmine.cole.sample@email.invalid,561-555-0152,Air Conditioning Repair,$740.00 ,$51.80,paid,12-May-2026,USD 740.00,Check ,"Capacitor, condensate flush"
+INV1043,03.02.2026,46113,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,561-555-0201,Weekly Pool,$420.00,$29.40,paid,09-Apr-2026,420.00 USD,Visa,
+#1038,"March 04, 2026",03/19/2026,"Kim, David",david.kim.sample@email.invalid,561-555-0108,Pool Service,$160.00,USD 11.20,Paid ,46099,160.00,CHK,
+inv1130,9/1/26,09/16/2026,P. Nair,priya.nair.sample@email.invalid,+1 954 555 0122,Pool Service - Monthly,USD 175.00,12.25,paid,09/16/2026,175.00,VISA,
+1182,03/28/2026,04/12/2026,Sofia Marino,sofia.marino.sample@email.invalid,+1 561 555 0149,Pool Equip Repair,  $890.00 ,USD 62.30,Paid,04.14.2026,$890.00,Check ,Leak detection and patch
+Inv 1117,2026/08/03,2026-08-18,"Marino, Sofia",sofia.marino.sample@email.invalid,(561) 555-0149,pool clean,$217.30 ,,paid,08/07/2026,$217.30 ,ACH ,
+INV1163,2026/11/02,12.02.2026,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,561-555-0201,Weekly Pool,$445.20,$ 31.16,overdue,,,,
+1103,02-Jul-2026,n/a,Ocean Palms Hoa,office.oceanpalms.sample@email.invalid,5615550201,POOL SVC,445.20,31.16,paid,2026-08-08,445.20$,CASH,
+INV-1178,2026-03-12,46108,H. Farouk,hassan.farouk.sample@email.invalid,n/a,HVAC Repair,$960.00,  $67.20 ,paid,20-Mar-2026,960.00,Card,"Capacitor, fan motor"
+1052,03-Apr-2026,2026/04/18,"Rossi, Elena", ,954-555-0171,Weekly Pool,$ 190.00,13.30,PAID,04.15.2026,190.00 USD,ach,
+INV1039,03.05.2026,3/20/26,Anthony Ruiz,anthony.ruiz.sample@email.invalid,+1 561 555 0156,pool clean,"200,00",14.00,PAID,2026-03-12,200.00,CASH,
+1151,02-Nov-2026,2026-11-17,MARIA GONZALEZ,maria.gonzalez.sample@email.invalid,561-555-0142,Weekly Pool Service,  $185.00 ,,Paid ,46332,$185.00,Bank transfer,
+INV1129,9/5/2026,2026-09-20,Anthony  Ruiz,anthony.ruiz.sample@email.invalid,561-555-0156,POOL SVC,212.00,14.84,paid,"September 15, 2026",212.00,CHK,
+INV-1069,05/05/2026,"May 20, 2026",Anthony  Ruiz,anthony.ruiz.sample@email.invalid,561.555.0156,pool clean,$200.00 ,14.00 USD,paid,05/11/2026,200,ACH,
+#1201,2026-06-23,7/8/26,Kevin Doyle,kevin.doyle.sample@email.invalid,561.555.0128,Pool Repair,"1.320,00",92.40$,Paid,46209,"$1,320.00",cash,Salt system and cell
+INV1113,08/04/2026,19-Aug-2026,David Kim,david.kim.sample@email.invalid,561-555-0108,Weekly Pool Service,160,  $11.20 ,Paid,08.20.2026,"160,00",Cash,
+inv-1219,46277,27/09/2026,L Brooks,lauren.brooks.sample@email.invalid,5615550177,hvac-repair,740.00,  $51.80 ,Partial,2026-09-27,USD 347.76,VISA,Capacitor and clean
+inv1203,2026/07/02,46220,NICOLE BENNETT, ,561.555.0169,Air Conditioning Repair,1760,,Paid ,7/9/2026,"  $1,760.00 ",Card,Shorted compressor diagnosis + start kit
+inv-1235,14/11/2026,2026-11-29,P. Nguyen,patrick.nguyen.sample@@email.invalid,954.555.0186,HVAC PMA,230.00 USD,16.10,paid,11/19/2026,USD 230.00,CHK,"Fall tune-up, late"
+Inv 1191,2026-05-08,06/07/2026,Harbor Oaks PM,ap.harboroaks.sample@email.invalid,(561) 555-0245,Pool Equip Repair,"  $1,680.00 ",117.60,Paid ,2026-06-12,"1.680,00",Bank transfer,Commercial pump rebuild
+inv1155,2026-11-01,46342,Aisha  Patel,aisha.patel.sample@email.invalid,561-555-0164,pool clean,"180,00",12.60,Paid,11/18/2026,180.00,Card,
+Inv 1029,"February 03, 2026","March 05, 2026",Riviera Court Condo Assoc,manager.rivieracourt.sample@email.invalid,561-555-0214,Pool Service - Monthly,$ 380.00,26.60,Paid,03/12/2026,$380.00 ,CHK,
+inv-1171,02/05/2026,46073,"Bennett, Nicole",nicole.bennett.sample@email.invalid,5615550169,HVAC Repair,"USD 1,120.00",78.40,paid,2/18/2026,1120.00$,visa ****1234,Blower motor
+1059,"April 03, 2026",5/3/26,Riviera Court Condo Assoc,manager.rivieracourt.sample@email.invalid,561-555-0214,Weekly Pool Service,380.00,$26.60,paid,4/29/26,USD 380.00,Check,
+#1184,08-Apr-2026,23-Apr-2026,"Doyle, Kevin",kevin.doyle.sample@email.invalid,(561) 555-0128,Pool Repair,"USD 1,560.00",109.20,partial,2026/04/22,959.43,cash,Pool heater gas valve
+INV-1066,05.02.2026,05/17/2026,"Thompson, Michael",mike.thompson.sample@email.invalid,(561) 555-0190,Weekly Pool Service,170.00,11.90,PAID,46156,170.00$,Check,
+Inv 1231,"November 04, 2026",19-Nov-2026,"Doyle, Kevin",kevin.doyle.sample@email.invalid,(561) 555-0128,pool repairs,$610.00,$ 42.70,PAID,2026/11/09,610.00$,Check,Filter and laterals
+INV1054,2026-04-05,04.20.2026,Tony Ruiz,anthony.ruiz.sample@email.invalid,561-555-0156,Pool Service - Monthly,  $200.00 ,USD 14.00,paid,04.18.2026,"200,00",Bank transfer,
+1243,10/8/26,10.23.2026,"Doyle, Kevin",kevin.doyle.sample@email.invalid,5615550128,Pool Equip Repair,425.00$,29.75,OVERDUE,,,,Filter grid pack
+inv-1099,"July 05, 2026",7/20/26,Tony Ruiz,anthony.ruiz.sample@email.invalid,561-555-0156,Pool Service - Monthly,212.00,$14.84 ,PAID,7/18/2026,212.00,ach,
+INV-1057 ,4/3/26,2026/04/18,S Marino,sofia.marino.sample@email.invalid,+1 561 555 0149,Weekly Pool Service,205.00,14.35,Paid ,"April 10, 2026",$205.00 ,mastercard,
+INV-1112,8/3/2026,18/08/2026,ELENA ROSSI,elena.rossi.sample@email.invalid,+1 954 555 0171,POOL SVC,$ 190.00,13.30,paid,"August 08, 2026",190.00,ACH,
+Inv 1092,"July 03, 2026",07.18.2026,J. O'Brien,james.obrien.sample@email.invalid,561-555-0188,Pool Cleaning,"195,00",13.65 USD,PAID,07.13.2026,$195.00,ach,
+#1101,02-Jul-2026,07/17/2026,"Walsh, Christopher",chris.walsh.sample@email.invalid,561-555-0181,Weekly Pool Service,$185.00 ,$12.95,paid,07.07.2026,$ 185.00,Visa,
+1232,11/6/2026,2026/11/21,N. Bennett,nicole.bennett.sample@email.invalid,561-555-0169,Air Conditioning Repair,$890.00 ,  $62.30 ,paid,"November 18, 2026",$ 890.00,VISA,"No heat, igniter and flame sensor"
+#1220,2026-09-16,10/16/26,Cypress Walk Assoc,board.cypresswalk.sample@email.invalid,(561) 555-0226,A/C Repair,1920.00$,$134.40 ,Paid,2026-10-06,"  $1,920.00 ",check,Gym unit board and sensors
+inv-1206,46219,"August 15, 2026",Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,561-555-0201,Pool Equip Repair,2140.00,149.80 USD,,,,,Heater heat-exchanger work
+inv-1080,2026/06/01,06.16.2026,Aisha  Patel,aisha.patel.sample@@email.invalid,561-555-0164,Weekly Pool,USD 180.00,12.60$,PAID,06/19/2026,$180.00 ,visa ****1234,
+inv-1095,07.01.2026,46219,Aisha  Patel,aisha.patel.sample@email.invalid,561-555-0164,POOL SVC,180,$ 12.60,paid,2026/07/15,180.00,ACH,
+INV-1204,07/08/2026,07.23.2026,"Moreau, Diane",diane.moreau.sample@email.invalid,954-555-0195,A/C Repair,"$2,040.00",142.80,Paid,07/22/2026,"2,040.00",Visa,"Evaporator leak, coil treatment"
+inv1018,2/4/2026,19/02/2026,sara chen,sarah.chen.sample@email.invalid,5615550117,Weekly Pool,$165.00,,PAID,21-Feb-2026,165.00,VISA,
+1061,05/02/2026,5/17/2026,"Gonzalez, Maria",maria.gonzalez.sample@email.invalid,561-555-0142,Pool Service - Monthly,USD 185.00,  $12.95 ,Paid ,"May 09, 2026",225,Bank transfer,overpay $40 left as-is
+Inv 1050,04/01/2026,4/16/2026,Aisha Patel,aisha.patel.sample@email.invalid,5615550164,Weekly Pool,180.00,USD 12.60,PAID,04/09/2026,  $180.00 ,MC,
+inv-1239,04-Sep-2026,"September 19, 2026",James O Brien,james.obrien.sample@email.invalid,561.555.0188,Pool Equip Repair,2140,$149.80,,,,,Pump and control board — waiting on insurance
+inv-1164,2026-11-03,12/03/2026,Riviera Court Condo,manager.rivieracourt.sample@email.invalid,561-555-0214,pool clean,$380.00,26.60,Open,,,,
+INV-1056,04/02/2026,04/17/2026,C. Walsh,chris.walsh.sample@email.invalid,n/a,Pool Service - Monthly,$185.00 ,$ 12.95,Paid ,46121,USD 185.00,VISA,
+inv1042,2026/03/03,46099,Sofia Marino,sofia.marino.sample@email.invalid,561.555.0149,Pool Service,$ 205.00,14.35,Paid ,46101,"205,00",VISA,
+INV-1137 ,10/03/2026,10/18/26,Jim OBrien,james.obrien.sample@email.invalid,+1 561 555 0188,Pool Service - Monthly,195.00,  $13.65 ,PAID,2026-10-20,$ 195.00,Bank transfer,
+INV-1200,"June 18, 2026",07/03/2026,Lauren Brooks,lauren.brooks.sample@email.invalid,-,A/C Repair,$670.00 ,46.90,Paid,06/24/2026,$ 670.00,cash,Thermostat and float switch
+#1089,03-Jun-2026,07/03/2026,Riviera Court Condos Inc,MANAGER.RIVIERACOURT.SAMPLE@EMAIL.INVALID,n/a,POOL SVC,380,,Paid ,46206,$ 380.00,ach,
+INV-1044,"March 03, 2026",02-Apr-2026,Riviera Court Condos,manager.rivieracourt.sample@email.invalid,(561) 555-0214,Weekly Pool Service,380.00,,paid,"April 07, 2026",  $380.00 ,MC,
+INV-1001,02-Jan-2026,1/17/26,Maria Gonzales,maria.gonzalez.sample@email.invalid,561-555-0142,POOL SVC,  $185.00 ,12.95,paid,01/16/2026,185.00,Bank transfer,
+#1218,09-Sep-2026,2026/09/24,T. Grant,tom.grant.sample@email.invalid,,Install,"USD 6,800.00",476.00$,Paid ,09/24/2026,"$ 6,800.00",Card,Heat-pump swap
+INV-1087 ,6/3/2026,18-Jun-2026,"Marino, Sofia",sofia.marino.sample@@email.invalid,561.555.0149,Pool Cleaning,"217,30",15.21,Paid,17/06/2026,USD 217.30,Cash,
+#1096,46205,2026-07-17,"Thompson, Michael",mike.thompson.sample@email.invalid,(561) 555-0190,Weekly Pool Service,180.20,12.61 USD,Paid ,7/6/2026,180.20$,CHK,
+INV-1037 ,46084,03.18.2026,Elena Rossi,elena.rossi.sample@email.invalid,954-555-0171,POOL SVC,  $190.00 ,13.30$,PAID,3/21/26,190.00$,Card,
+INV-1224 ,10/2/2026,10/17/2026,"Bennett, Nicole",nicole.bennett.sample@email.invalid,561-555-0169,A/C Maintenance,$ 210.00,14.70,PAID,2026-10-18,210,Bank transfer,Fall tune-up
+inv-1011,1/2/2026,46039,C. Walsh,chris.walsh.sample@email.invalid,n/a,Weekly Pool Service,  $185.00 ,12.95,PAID,46034,185,check,
+INV-1048,4/4/26,"April 19, 2026","Chen, Sarah",sarah.chen.sample@email.invalid,561.555.0117,Pool Cleaning,  $165.00 ,$11.55,PAID,4/11/26,165.00$,VISA,
+INV1233,2026-11-10,"December 10, 2026",Harbor Oaks PM,ap.harboroaks.sample@email.invalid,(561) 555-0245,hvac-repair,"  $1,480.00 ",,Open,,,,Building A no-cool
+INV-1208 ,7/24/26,2026/08/08,"Kim, David",david.kim.sample@email.invalid,+1 561 555 0108,Pool Repair,390.00,$27.30 ,PAID,46233,$390.00 ,check,Impeller
+INV1090,06.04.2026,7/4/2026,Cypress Walk Association,BOARD.CYPRESSWALK.SAMPLE@EMAIL.INVALID,5615550226,Pool Cleaning,350.00,,Paid ,07.09.2026,350.00$,CHK,
+INV1043,03.02.2026,46113,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,561-555-0201,Weekly Pool,$420.00,$29.40,paid,09-Apr-2026,420.00 USD,Visa,
+INV-1140,2026/10/01,16/10/2026,"Patel, Aisha",aisha.patel.sample@email.invalid,561-555-0164,Pool Cleaning,180.00,12.60$,Paid ,46313,$180.00 ,Check,
+INV-1078 ,04-Jun-2026,06.19.2026,S. Chen,sarah.chen.sample@email.invalid,n/a,Pool Service,174.90$,12.24,Paid ,6/20/26,"174,90",cash,
+INV-1214 ,21/08/2026,09.05.2026,D. Moreau,diane.moreau.sample@email.invalid,(954) 555-0195,AC Service,2740.00$,191.80,Paid,08.29.2026,"2,740.00",ach,Compressor changeout
+1158,11.04.2026,2026-11-19,david kim,david.kim.sample@email.invalid,(561) 555-0108,Weekly Pool Service,$160.00 ,11.20,Paid ,11/20/2026,"160,00",ACH,
+inv-1121,02-Sep-2026,17-Sep-2026,Maria Gonzalez,maria.gonzalez.sample@email.invalid,561-555-0142,Weekly Pool Service,185.00,  $12.95 ,PAID,2026-09-09,185.00 USD,Visa,
+INV-1176,3/4/2026,"April 03, 2026",Harbor Oaks Property Management,ap.harboroaks.sample@email.invalid,+1 561 555 0245,AC Tune-Up,"2,400.00",168,PAID,04/07/2026,"$2,400.00 ",MC,"Managed properties, March PMA"
+inv-1126,46267,09.17.2026,Michael Thompson,mike.thompson.sample@email.invalid,+1 561 555 0190,Weekly Pool,$180.20 ,$ 12.61,PAID,06-Sep-2026,  $180.20 ,Cash,
+INV-1162,11/03/2026,46344,"Marino, Sofia",sofia.marino.sample@email.invalid,(561) 555-0149,Pool Cleaning,217.30,15.21,paid,2026/11/13,"217,30",Check,
+#1027,2026-02-03,02.18.2026,Sofia Marino,sofia.marino.sample@email.invalid,,Pool Service - Monthly,  $205.00 ,14.35$,PAID,2/17/26,USD 205.00,MC,
+#1174,20/02/2026,46088,Pat Nguyen,patrick.nguyen.sample@email.invalid,9545550186,Air Conditioning Repair,"$ 1,480.00",$103.60 ,Paid,46089,"1.480,00",MC,Evaporator coil leak repair
+Inv 1199,06/14/2026,07.14.2026,Harbor Oaks Property Mgmt,ap.harboroaks.sample@email.invalid,(561) 555-0245,AC Replacement,"USD 8,900.00",$623.00,paid,2026/07/10,"8.900,00",Card,"Two package units, building B"
+#1032,2026-03-03,18-Mar-2026,"O'Brien, James",james.obrien.sample@email.invalid,+1 561 555 0188,Weekly Pool,tbd,13.65 USD,paid,03/10/2026,$ 195.00,Visa,
+1161,2026-11-02,11/17/26,Chris Walsh,chris.walsh.sample@email.invalid,561-555-0181,POOL SVC,185.00,  $12.95 ,PAID,11/08/2026,$ 185.00,CASH,
+INV-1209 ,29/07/2026,46247,Tom Grant,tom.grant.sample@email.invalid,954.555.0104,Air Conditioning Repair,"$1,180.00",82.60,PAID,46238,"USD 1,180.00",visa ****1234,Blower and capacitor
+inv-1102,07/03/2026,07.18.2026,Sofia Marino,sofia.marino.sample@email.invalid,5615550149,Weekly Pool,  $217.30 ,  $15.21 ,PAID,7/16/26,USD 217.30,VISA,
+INV-1070,2026/05/01,16-May-2026,P. Nair,priya.nair.sample@email.invalid,954-555-0122,Weekly Pool Service,175.00,$12.25 ,Paid ,46152,$175.00,CHK,
+inv-1192,2026-05-13,n/a,Hassan Farouk,hassan.farouk.sample@email.invalid,,Install,"$7,600.00 ","532,00",PAID,19/05/2026,7600.00,ach,4-ton split system
+1023,04-Feb-2026,2/19/26,D. Kim,david.kim.sample@email.invalid,,Weekly Pool,$160.00 ,$ 11.20,Paid,46062,  $160.00 ,ach,
+INV-1064,2026-05-05,5/20/2026,R. Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,pool clean,175.00,12.25,Paid,05.13.2026,$ 175.00,CHK,
+INV1187,18/04/2026,2026-05-03,Patrick Nguyen,,+1 954 555 0186,Heater Install,"  $4,100.00 ",  $287.00 ,Paid,03-May-2026,"USD 4,100.00",Cash,"Package unit, small condo"
+inv1073,5/2/26,6/1/2026,Ocean Palms HOA,office.oceanpalms.sample@email.invalid,n/a,Weekly Pool Service,420.00,29.40,PAID,05/27/2026,420.00,Check ,
+INV1104,7/3/26,,Riviera Court Condos Inc,manager.rivieracourt.sample@email.invalid,561-555-0214,pool clean,380,,Paid ,7/27/26,380.00,CHK,
+inv-1083,2026-06-04,6/19/2026,D. Kim,david.kim.sample@email.invalid,+1 561 555 0108,Pool Cleaning,160.00$,"11,20",Paid ,46185,"160,00",Mastercard,
+1181,2026/03/25,"April 09, 2026",Tom Grant,tom.grant.sample@email.invalid,954-555-0104,HVAC Maintenance,195,  $13.65 ,Paid ,4/10/2026,$195.00 ,ach,Post-install checkup
+inv-1025,2/1/2026,02/16/2026,"Nair, Priya",priya.nair.sample@email.invalid,(954) 555-0122,Weekly Pool,175,$12.25 ,Paid,2/10/26,USD 175.00,CHK,
+INV-1105 ,7/4/2026,2026/08/03,Cypress Walk Association,board.cypresswalk.sample@email.invalid,561-555-0226,Pool Service,$350.00 ,USD 24.50,paid,31-Jul-2026,350.00,Check,
+INV1019,02/05/2026,N/A,Bob Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,pool clean,$175.00 ,USD 12.25,Paid ,02/16/2026,175,ACH,
+#1009,"January 05, 2026",46042,Tony Ruiz,anthony.ruiz.sample@email.invalid,561-555-0156,Weekly Pool Service,200.00,$ 14.00,PAID,1/19/2026,$200.00 ,MC,
+Inv 1045,03/04/2026,2026/04/03,Cypress Walk Assoc,board.cypresswalk.sample@email.invalid,5615550226,Weekly Pool Service,350,"24,50",PAID,2026/04/10,350.00 USD,VISA,
+inv-1110,8/1/26,2026/08/16,Aisha  Patel,aisha.patel.sample@email.invalid,561.555.0164,pool clean,180,$ 12.60,paid,2026/08/08,180.00$,ACH ,
+#1003,04-Jan-2026,19/01/2026,S. Chen,sarah.chen.sample@email.invalid,(561) 555-0117,Pool Service - Monthly,  $165.00 ,11.55$,paid,46043,165.00,check,
+1013,02-Jan-2026,2026-02-01,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,(561) 555-0201,pool clean,420.00,29.40,Paid,01/26/2026,420.00$,Check ,
+INV-1094 ,07/05/2026,46223,R. Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,Pool Cleaning,"175,00",12.25,paid,07/15/2026,USD 175.00,Visa,
+INV-1036,03/02/2027,03/17/2026,Michael Thompson,mike.thompson.sample@email.invalid,561-555-0190,Pool Service - Monthly,170.00 USD,$11.90,paid,18-Mar-2026,$ 170.00,VISA,
+inv1226,09-Oct-2026,2026/11/08,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,561.555.0201,Install,"$9,200.00 ",644.00$,partial,27-Oct-2026,7060.00,ACH,Variable-speed pump + automation (deposit billed)
+1008,2026-01-04,01.19.2026,david kim,david.kim.sample@email.invalid,561-555-0108,POOL SVC,$160.00,,Paid ,2026/01/17,160.00$,mastercard,
+inv-1111,08.02.2026,17/08/2026,Michael Thompson,mike.thompson.sample@email.invalid,n/a,Weekly Pool,180.20$,$12.61 ,PAID,19/08/2026,  $180.20 ,visa ****1234,
+inv1076,2026-06-02,2026/06/17,MARIA GONZALEZ,maria.gonzalez.sample@email.invalid,(561) 555-0142,Pool Cleaning,$185.00,"12,95",Paid,46181,185.00$,ACH,
+1041,03.02.2026,46098,Christopher Walsh,CHRIS.WALSH.SAMPLE@EMAIL.INVALID,(561) 555-0181,pool clean,$185.00 ,$ 12.95,paid,2026/03/20,185,ACH ,
+Inv 1153,11/04/2026,11/19/26,"Chen, Sarah",sarah.chen.sample@email.invalid,(561) 555-0117,Pool Cleaning,"174,90",$ 12.24,Paid,11/10/26,174.90,ach,
+INV-1093,07.04.2026,19/07/2026,sara chen,SARAH.CHEN.SAMPLE@EMAIL.INVALID,(561) 555-0117,Weekly Pool,$174.90,$ 12.24,Paid,07/09/2026,174.90,ACH,
+inv-1172,"February 11, 2026",02/26/2026,Jasmine Cole,jasmine.cole.sample@email.invalid,561-555-0152,Pump / Filter Repair,$780.00,  $54.60 ,paid,01-Mar-2026,780.00$,ach,Salt cell replacement
+1156,46328,2026/11/17,Mike Thompson,mike.thompson.sample@email.invalid,+1 561 555 0190,Weekly Pool Service,  $180.20 ,,paid,10-Nov-2026,"180,20",Bank transfer,
+Inv 1086,2026-06-02,06.17.2026,C. Walsh,chris.walsh.sample@email.invalid,(561) 555-0181,POOL SVC,185.00$,$12.95 ,paid,6/20/26,$185.00,ACH,
+Inv 1040,01-Mar-2026,46097,PRIYA NAIR,priya.nair.sample@email.invalid,9545550122,Pool Service - Monthly,  $175.00 ,,PAID,15/03/2026,USD 175.00,check,
+INV-1116 ,2026/08/02,46251,Chris Walsh,chris.walsh.sample@email.invalid,+1 561 555 0181,POOL SVC,185.00 USD,$ 12.95,paid,2026-08-16,185,Check,
+inv1033,46085,19/03/2026,sara chen,sarah.chen.sample@email.invalid,+1 561 555 0117,Pool Service - Monthly,??,11.55$,paid,46094,165.00 USD,VISA,
+#1180,"March 19, 2026",18/04/2026,Breeze Bay Club LLC,ops.breezebay.sample@email.invalid,954.555.0239,A/C Repair,"2,140.00 USD",USD 149.80,Paid,17-Apr-2026,"$ 2,140.00",Card,Compressor start components
+1055,46113,04/16/2026,Priya Nair,priya.nair.sample@email.invalid,n/a,pool clean,175,,paid,2026/04/12,175.00,Check,
+inv1119,2026-08-03,09.02.2026,Riviera Court Condo,manager.rivieracourt.sample@email.invalid,(561) 555-0214,pool clean,380.00 USD,,PAID,8/24/26,USD 380.00,ACH,
+inv-1049,2026/04/05,04/20/2026,Bob Alvarez,robert.alvarez.sample@email.invalid,n/a,pool clean,USD 175.00,12.25$,Paid ,2026/04/22,  $175.00 ,CASH,
+#1004,46027,2026-01-20,R. Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,Pool Cleaning,"175,00",,Paid,01/23/2026,USD 175.00,Check,
+1123,"September 04, 2026",09.19.2026,"Chen, Sarah",sarah.chen.sample@email.invalid,+1 561 555 0117,Weekly Pool Service,$174.90 ,$12.24,Paid,2026-09-10,$174.90 ,Cash,
+Inv 1177,46088,2026/03/22,ELENA ROSSI,elena.rossi.sample@email.invalid,954.555.0171,Pump / Filter Repair,"$1,260.00 ",88.20,Paid ,2026/03/17,"  $1,260.00 ",MC,Variable-speed pump
+INV1021,2/2/2026,46070,Mike Thompson,,5615550190,Pool Service - Monthly,$ 170.00,,Paid ,13-Feb-2026,170,Visa,
+Inv 1063,5/4/26,05.19.2026,Sarah Chen,sarah.chen.sample@email.invalid,5615550117,POOL SVC,165,11.55,Paid,05.20.2026,165.00$,CASH,
+INV-1193,2026/05/19,2026-06-03,"Thompson, Michael",mike.thompson.sample@email.invalid,561-555-0190,Pump / Filter Repair,610.00$,,Paid,5/30/26,610,Card,Filter tank clamp
+1150,10/04/2026,"November 03, 2026",Cypress Walk Assn,board.cypresswalk.sample@email.invalid,5615550226,Pool Cleaning,$ 350.00,$ 24.50,Paid,11/9/2026,350.00 USD,check,
+#1223,09/29/2026,"October 14, 2026",P. Nguyen,patrick.nguyen.sample@email.invalid,954-555-0186,HVAC Repair,860.00$,,PAID,2026/10/14,$860.00 ,ach,"Float switch, drain"
+inv1227,"October 14, 2026",46324,H. Farouk,hassan.farouk.sample@email.invalid,+1 561 555 0134,Pump / Filter Repair,980.00,68.60,paid,10/25/2026,  $980.00 ,CHK,Heater bypass and valves
+Inv 1215,46260,"September 10, 2026","Cole, Jasmine",jasmine.cole.sample@email.invalid,561-555-0152,pool repairs,820.00$,57.40,Paid ,09/09/2026,$ 820.00,Cash,Automation panel
+inv1244,"October 19, 2026",46329,Diane Moreau,diane.moreau.sample@email.invalid,954.555.0195,A/C Repair,1150,80.50 USD,open,,,,Fan motor and capacitor
+#1168,2026-01-21,02/20/2026,"Breeze Bay Club, LLC",ops.breezebay.sample@email.invalid,954-555-0239,AC Tune-Up,"USD 1,800.00","126,00",PAID,02.27.2026,1800.00,ACH ,Clubhouse plus four units
+inv-1179,2026/03/16,4/15/2026,Ocean Palms Hoa Inc,office.oceanpalms.sample@email.invalid,+1 561 555 0201,Heater Install,8200.00,574.00,PAID,04.08.2026,"8,200.00",visa ****1234,Pool heater install
+Inv 1035,00/00/0000,2026-03-16,Aisha  Patel,aisha.patel.sample@email.invalid,561-555-0164,Pool Cleaning,180.00$,12.60$,paid,3/16/26,$180.00,Check ,
+INV1241,2026-09-28,13/10/2026,lauren brooks,lauren.brooks.sample@email.invalid,,A/C Repair,890,$62.30 ,OVERDUE,,,,"Capacitor and service call, no response to follow-up"
+INV-1142 ,03-Oct-2026,18/10/2026,"Rossi, Elena",elena.rossi.sample@email.invalid,n/a,Weekly Pool Service,$190.00 ,"13,30",Paid,"October 21, 2026",$ 190.00,ACH,
+INV-1134 ,09/03/2026,10/03/2026,Riviera Court Condo,manager.rivieracourt.sample@email.invalid,561-555-0214,Weekly Pool,380.00$,,PAID,06-Oct-2026,380.00,ACH,
+Inv 1128,9/4/26,46284,"Kim, David",david.kim.sample@email.invalid,561.555.0108,Pool Cleaning,160.00$,  $11.20 ,paid,16/09/2026,160.00,Mastercard,
+#1068,04-May-2026,2026-05-19,"Kim, David",david.kim.sample@email.invalid,561-555-0108,POOL SVC,$ 160.00,$11.20,PAID,05/18/2026,USD 160.00,check,
+#1088,46175,"July 02, 2026",Ocean Palms HOA,office.oceanpalms.sample@email.invalid,561-555-0201,Weekly Pool,445.20,  $31.16 ,paid,7/8/2026,$445.20 ,Card,
+INV-1169 ,2026/01/27,2026-02-11,Thomas Grant,tom.grant.sample@email.invalid,9545550104,Equipment Install,6400.00,448.00,Paid,02/02/2026,"$6,400.00",CHK,3-ton air handler swap
+#1004,46027,2026-01-20,R. Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,Pool Cleaning,"175,00",,Paid,01/23/2026,USD 175.00,Check,
+INV-1242 ,"October 03, 2026",11.02.2026,Cypress Walk Association,board.cypresswalk.sample@email.invalid,561-555-0226,Pump / Filter Repair,"$ 1,240.00",86.80 USD,open,,,,Commercial pump seal and bearings
+1058,04/02/2026,"May 02, 2026",Ocean Palms Hoa Inc,OFFICE.OCEANPALMS.SAMPLE@EMAIL.INVALID,561.555.0201,Pool Cleaning,$420.00,29.40 USD,paid,46148,420.00,CHK,
+inv1118,8/2/26,9/1/2026,Ocean Palms HOA,office.oceanpalms.sample@email.invalid,+1 561 555 0201,pool clean,445.20 USD,,paid,8/23/2026,445.20,Bank transfer,
+inv-1010,1/1/2026,01/16/2026,"Nair, Priya",priya.nair.sample@@email.invalid,(954) 555-0122,pool clean,USD 175.00,,PAID,01/18/2026,"175,00",check,
+1230,28-Oct-2026,11/12/2026,Lauren Brooks,lauren.brooks.sample@email.invalid,561.555.0177,A/C Maintenance,195.00$,13.65$,PAID,15-Nov-2026,195.00,ACH ,Fall tune-up
+INV-1245,08/14/2026,08.29.2026,D. Kim,david.kim.sample@email.invalid,5615550108,Pool Equip Repair,-180.00,,paid,2026/08/14,-$180.00,credit memo,"Warranty credit, impeller job"
+#1020,"February 01, 2026",02/16/2026,Aisha  Patel,aisha.patel.sample@email.invalid,(561) 555-0164,Weekly Pool Service,USD 180.00,  $12.60 ,PAID,2/6/26,$ 180.00,CASH,
+INV-1067,05/03/2026,5/18/26,Elena Rossi,ELENA.ROSSI.SAMPLE@EMAIL.INVALID,(954) 555-0171,POOL SVC,190.00,13.30$,Paid,5/21/26,190.00 USD,ACH ,
+INV1006,2026-01-02,17/01/2026,M Thompson,mike.thompson.sample@email.invalid,561-555-0190,Pool Cleaning,170.00 USD,,Paid,06-Jan-2026,170.00,Check,
+#1225,2026-10-07,22/10/2026,"Moreau, Diane",DIANE.MOREAU.SAMPLE@EMAIL.INVALID,954-555-0195,A/C Maintenance,220.00 USD,$15.40,Paid ,10/17/2026,220.00$,Bank transfer,Fall tune-up
+inv1062,"May 03, 2026",05.18.2026,James O'Brien,james.obrien.sample@email.invalid,(561) 555-0188,Pool Service - Monthly,$195.00,$13.65,Paid,5/10/26,$195.00 ,ACH,
+INV-1047,4/3/26,18/04/2026,James O Brien,james.obrien.sample@@email.invalid,5615550188,pool clean,195.00,  $13.65 ,Paid ,04/19/2026,195.00 USD,Check ,
+INV1005,2026-01-01,"January 16, 2026","Patel, Aisha",aisha.patel.sample@email.invalid,5615550164,Pool Service,180.00,  $12.60 ,Paid ,46041,180.00,Bank transfer,
+Inv 1120,08/04/2026,46268,Cypress Walk Assn,board.cypresswalk.sample@email.invalid,561-555-0226,Weekly Pool Service,350,24.50,Paid,09/11/2026,USD 350.00,Bank transfer,
+Inv 1238,10/21/2026,"November 05, 2026",J. Cole,jasmine.cole.sample@email.invalid,(561) 555-0152,hvac maint,USD 210.00,USD 14.70,paid,2026/10/31,$210.00 ,Check ,Fall tune-up
+1065,2026-05-01,46158,Aisha  Patel,aisha.patel.sample@email.invalid,561-555-0164,Pool Service - Monthly,USD 180.00,$12.60 ,paid,05.13.2026,180.00,visa ****1234,
+1136,10/2/26,17/10/2026,MARIA GONZALEZ,maria.gonzalez.sample@email.invalid,561-555-0142,pool clean,$185.00,12.95,Paid ,10/19/2026,185.00$,Mastercard,
+INV1085,06/01/2026,2026/06/16,Priya Nair,PRIYA.NAIR.SAMPLE@EMAIL.INVALID,(954) 555-0122,POOL SVC,175.00 USD,USD 12.25,Paid,06/05/2026,175.00,ACH,
+#1082,03-Jun-2026,2026-06-18,"Rossi, Elena",elena.rossi.sample@email.invalid,9545550171,POOL SVC,$190.00,$13.30,Paid ,2026-06-13,USD 190.00,MC,
+inv-1152,03-Nov-2026,"November 18, 2026","O'Brien, James",james.obrien.sample@email.invalid,5615550188,Pool Service - Monthly,195,$13.65,paid,46344,195.00 USD,visa ****1234,
+#1081,"June 02, 2026",06/17/2026,"Thompson, Michael",mike.thompson.sample@email.invalid,5615550190,Pool Service - Monthly,$ 180.20,$12.61,PAID,2026/06/13,180.20,Cash,
+INV-1125,09/01/2026,n/a,Aisha  Patel,aisha.patel.sample@email.invalid,561-555-0164,pool clean,  $180.00 ,"12,60",Paid ,9/8/26,180.00$,Check ,
+#1015,01/04/2026,2/3/26,Cypress Walk Assn,board.cypresswalk.sample@email.invalid,561-555-0226,pool clean,350,24.50 USD,Paid ,02.01.2026,  $350.00 ,CASH,
+INV1028,2026/02/02,2026-03-04,Ocean Palms HOA,office.oceanpalms.sample@email.invalid,561-555-0201,Pool Cleaning,$420.00,,paid,3/9/26,USD 420.00,Bank transfer,
+#1202,06/27/2026,46215,Jasmine Cole,jasmine.cole.sample@email.invalid,+1 561 555 0152,AC Service,2450,171.50,paid,07.02.2026,2450,ach,Compressor replacement labor
+inv1197,06/06/2026,6/21/26,Tom Grant,tom.grant.sample@email.invalid,954-555-0104,A/C Repair,980,68.60,Paid,6/13/26,980.00$,Mastercard,"Frozen coil, low charge"
+INV1234,"November 12, 2026",2026/11/27,"Moreau, Diane",diane.moreau.sample@email.invalid,954-555-0195,Heater Install,4800.00$,$336.00,overdue,,,,Air handler only
+1170,1/30/2026,,Kevin Doyle,kevin.doyle.sample@email.invalid,+1 561 555 0128,Pool Equip Repair,USD 425.00,29.75,Paid,2/11/2026,$ 425.00,Mastercard,Filter grid pack
+1124,09.05.2026,"September 20, 2026",R. Alvarez,,(954) 555-0133,Weekly Pool Service,175.00$,12.25$,Paid,2026/09/15,  $175.00 ,Visa,
+INV1190,2026/05/05,20-May-2026,Lauren Brooks,lauren.brooks.sample@email.invalid,561-555-0177,A/C Repair,2340,USD 163.80,PAID,2026-05-09,"2,340.00 USD",MC,Compressor hard start plus recharge
+inv-1157,2026/11/03,11/18/2026,ELENA ROSSI,elena.rossi.sample@email.invalid,,pool clean,$190.00,13.30$,PAID,11/11/2026,$190.00,ACH,
+INV1019,02/05/2026,N/A,Bob Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,pool clean,$175.00 ,USD 12.25,Paid ,02/16/2026,175,ACH,
+INV1195,05.27.2026,26/06/2026,BreezeBay Club,ops.breezebay.sample@email.invalid,9545550239,AC Service,1860,$130.20,Paid,2026/07/05,"$ 1,860.00",CHK,Two RTU service calls
+#1144,"October 05, 2026",46315,Anthony Ruiz,anthony.ruiz.sample@email.invalid,561-555-0156,Pool Service,$212.00 ,USD 14.84,Paid ,10/23/2026,$212.00 ,cash,
+inv1131,9/2/2026,09/17/2026,C. Walsh,chris.walsh.sample@email.invalid,(561) 555-0181,POOL SVC,$185.00,,Paid ,"September 07, 2026",USD 185.00,ACH ,
+INV-1222 ,23-Sep-2026,10/23/26,Harbor Oaks Property Mgmt.,ap.harboroaks.sample@email.invalid,561-555-0245,HVAC PMA,"$ 2,400.00",  $168.00 ,PAID,46313,"2,400.00 USD",Card,"Fall PMA, managed properties"
+1030,2/4/26,06-Mar-2026,Cypress Walk HOA,board.cypresswalk.sample@email.invalid,561-555-0226,Weekly Pool,USD 350.00,"24,50",Paid ,03.04.2026,USD 350.00,Check,
+inv1079,2026/06/05,2026/06/20,Bob Alvarez,robert.alvarez.sample@email.invalid,954.555.0133,Weekly Pool,175.00,12.25,paid,06/12/2026,175.00,Mastercard,
+inv-1012,2026-01-03,1/18/26,"Marino, Sofia",sofia.marino.sample@email.invalid,(561) 555-0149,POOL SVC,$205.00,14.35$,Paid,2026-01-21,205.00$,Bank transfer,
+1106,46236,17/08/2026,"Gonzalez, Maria",maria.gonzalez.sample@email.invalid,5615550142,Pool Cleaning,  $185.00 ,$12.95,Paid ,2026-08-18,185.00,ach,
+INV1074,05/03/2026,6/2/26,Riviera Court Condos, ,-,Pool Service - Monthly,$ 380.00,26.60,Paid ,46169,  $380.00 ,MC,
+inv1175,46079,2026-03-13,lauren brooks,lauren.brooks.sample@email.invalid,561.555.0177,Pool Repair,540,37.80,paid,2026-03-09,540.00,CHK,Heater igniter
+INV1148,10/02/2026,N/A,Ocean Palms H.O.A.,office.oceanpalms.sample@email.invalid,561-555-0201,POOL SVC,USD 445.20,31.16,Paid,2026/10/26,"445,20",Card,
+Inv 1007,"January 03, 2026",n/a,Elena Rossi,elena.rossi.sample@email.invalid,-,Pool Cleaning,$190.00,  $13.30 ,paid,"January 07, 2026",$190.00,Mastercard,
+Inv 1091,02-Jul-2026,2026-07-17,MARIA GONZALEZ,maria.gonzalez.sample@email.invalid,(561) 555-0142,Pool Cleaning,$ 185.00,$ 12.95,paid,07/13/2026,$ 185.00,cash,
+#1194,5/21/26,06/05/2026,"Bennett, Nicole",nicole.bennett.sample@email.invalid,5615550169,AC Service,"$1,290.00 ",  $90.30 ,PAID,05/31/2026,"1.290,00",VISA,Control board
+1210,46239,8/20/26,"Brooks, Lauren",lauren.brooks.sample@email.invalid,+1 561 555 0177,Air Conditioning Repair,"1.420,00","99,40",Paid,08.10.2026,"1,420.00",Mastercard,"Contactor, capacitor, hard start"
+1024,2026-02-05,2/20/2026,Tony Ruiz,anthony.ruiz.sample@email.invalid,5615550156,Weekly Pool Service,$200.00,"14,00",paid,2/12/26,200.00,visa ****1234,
+INV-1060,4/4/26,46146,Cypress Walk HOA,board.cypresswalk.sample@email.invalid,561-555-0226,Weekly Pool Service,"350,00",USD 24.50,Paid ,05.09.2026,350.00 USD,Check,
+INV-1017,02.03.2026,,"O'Brien, James",james.obrien.sample@email.invalid,5615550188,Pool Service,195.00 USD,$ 13.65,paid,46073,195.00,CASH,
+1237,2026/11/19,12/4/26,ELENA ROSSI,elena.rossi.sample@email.invalid,954-555-0171,AC Service,"760,00",$53.20,OVERDUE,,,,Capacitor
+INV-1217,2026/09/03,46298,Breeze Bay Club,ops.breezebay.sample@email.invalid,(954) 555-0239,HVAC PMA,1800.00,126.00$,PAID,9/27/2026,1800,ACH,"Fall PMA, club"
+INV-1198 ,46184,06/26/2026,Patrick Nguyen,patrick.nguyen.sample@email.invalid,954-555-0186,AC Service,"2,110.00",$147.70,Paid,"June 19, 2026",2110.00$,Card,Condenser fan and run cap
+1014,1/3/26,02/02/2026,Riviera Court Condo Assoc,manager.rivieracourt.sample@email.invalid,+1 561 555 0214,pool clean,$380.00,$26.60,Paid ,2026/02/05,$ 380.00,Check,
+#1154,11.05.2026,2026/11/20,Bob Alvarez,robert.alvarez.sample@email.invalid,+1 954 555 0133,POOL SVC,175.00$,12.25,Paid ,11/13/26,175,Check ,
+INV1071,"May 02, 2026",2026/05/17,Chris Walsh,chris.walsh.sample@email.invalid,561.555.0181,Pool Service - Monthly,USD 185.00,,Paid,5/20/26,$ 185.00,Bank transfer,
+INV1149,"October 03, 2026",11/2/26,Riviera Court Condo Assoc,manager.rivieracourt.sample@email.invalid,5615550214,Pool Cleaning,$380.00 ,"26,60",paid,31/10/2026,380.00,CHK,
+1186,2026-04-15,5/15/2026,Cypress Walk Assn,board.cypresswalk.sample@email.invalid,(561) 555-0226,HVAC PMA,"$ 2,100.00",,PAID,05/16/2026,2100.00,ACH,Association clubhouse and gym
+INV-1188 ,04.22.2026,2026/05/07,Anthony Ruiz,anthony.ruiz.sample@email.invalid,(561) 555-0156,Pump / Filter Repair,470.00,$ 32.90,Paid,28/04/2026,470,MC,Timer and relay
+1026,2026/02/02,02/17/2026,Christopher Walsh,chris.walsh.sample@email.invalid,+1 561 555 0181,Pool Service - Monthly,185.00,$12.95,Paid,02/07/2026,185,Visa,
+#1132,"September 03, 2026",2026-09-18,Sofia Marino,sofia.marino.sample@email.invalid,5615550149,Weekly Pool Service,$217.30,15.21 USD,paid,09/17/2026,  $217.30 ,VISA,
+1216,08/28/2026,09/12/2026,K Doyle,kevin.doyle.sample@email.invalid,561-555-0128,HVAC Repair,"1,540.00 USD",USD 107.80,Paid ,09.11.2026,"  $1,540.00 ",mastercard,Fan motor
+inv-1185,46122,04/25/2026,D. Moreau,diane.moreau.sample@email.invalid,-,hvac-repair,1880.00$,$131.60,Paid ,46126,1880,VISA,TXV and drier
+1183,2026-04-02,4/17/26,N. Bennett,nicole.bennett.sample@email.invalid,561-555-0169,HVAC PMA,210.00,"14,70",paid,04.11.2026,$ 210.00,MC,Spring PMA
+INV1240,09.08.2026,2026/10/08,Riviera Court Condo Assoc,manager.rivieracourt.sample@email.invalid,n/a,A/C Maintenance,"1,875.00 USD","131,25",open,,,,Fall common-area PMA
+INV-1167,01/14/2026,29-Jan-2026,H. Farouk,hassan.farouk.sample@email.invalid,561-555-0134,Pump / Filter Repair,$640.00,"44,80",Paid,2026/01/30,640.00,cash,Pump basket and lid
+inv-1051,4/2/2026,2026/04/17,Michael Thompson,mike.thompson.sample@email.invalid,+1 561 555 0190,Pool Service,170.00 USD,  $11.90 ,Paid ,4/19/2026,170,Bank transfer,
+INV1075,05/04/2026,06/03/2026,Cypress Walk Association,board.cypresswalk.sample@email.invalid,5615550226,Weekly Pool Service,  $350.00 ,$24.50 ,Paid,06/12/2026,350.00$,Cash,
+INV1072,2026-05-03,46160,Sofia Marino,sofia.marino.sample@email.invalid,,POOL SVC,205.00$,$14.35 ,Paid ,05/08/2026,205.00$,Check,
+inv1207,46225,"August 21, 2026",Harbor Oaks Property Mgmt,ap.harboroaks.sample@email.invalid,+1 561 555 0245,AC Replacement,4500.00,  $315.00 ,,,,,"Air handler, building C (balance billed later)"
+#1196,6/3/2026,06.18.2026,D. Moreau,diane.moreau.sample@email.invalid,954-555-0195,A/C Repair,"  $1,540.00 ",  $107.80 ,paid,16/06/2026,1540,ACH ,Fan motor and capacitor
+Inv 1077,6/3/26,2026-06-18,Jim OBrien,james.obrien.sample@email.invalid,5615550188,Weekly Pool Service,195.00$,$13.65,paid,06.20.2026,$195.00,ACH ,
+INV1133,2026/09/02,10/02/2026,Ocean Palms HOA,office.oceanpalms.sample@email.invalid,561-555-0201,pool clean,  $445.20 ,31.16,Paid,2026-10-05,445.20 USD,Check ,
+1221,2026-09-18,10/3/2026,Mike Thompson,mike.thompson.sample@email.invalid,,Pool Equip Repair,1140.00,USD 79.80,Paid ,2026/10/02,"USD 1,140.00",cash,Pump and union leaks
+inv1107,"August 03, 2026",8/18/2026,James O'Brien,james.obrien.sample@email.invalid,561-555-0188,pool clean,USD 195.00,USD 13.65,PAID,"August 13, 2026",  $195.00 ,Mastercard,
+INV-1078 ,04-Jun-2026,06.19.2026,S. Chen,sarah.chen.sample@email.invalid,n/a,Pool Service,174.90$,12.24,Paid ,6/20/26,"174,90",cash,
+INV-1109 ,08.05.2026,08/20/2026,R. Alvarez,robert.alvarez.sample@email.invalid,+1 954 555 0133,pool clean,USD 175.00,12.25,paid,"August 09, 2026",175.00,visa ****1234,
+inv-1159,11/05/2026,"November 20, 2026",Tony Ruiz,anthony.ruiz.sample@email.invalid,561.555.0156,Pool Cleaning,  $212.00 ,USD 14.84,Paid,11/12/2026,USD 212.00,CHK,
+Inv 1160,2026/11/01,2026-11-16,PRIYA NAIR,priya.nair.sample@email.invalid,(954) 555-0122,Weekly Pool,$175.00,"12,25",Paid ,11/17/26,$ 175.00,CHK,
+#1053,04.04.2026,04/19/2026,"Kim, David",david.kim.sample@email.invalid,561-555-0108,pool clean,"160,00",,Paid,2026/04/13,  $160.00 ,Bank transfer,
+inv-1165,11/4/2026,"December 04, 2026",Cypress Walk Assoc,board.cypresswalk.sample@email.invalid,561-555-0226,Pool Cleaning,$ 350.00,USD 24.50,Open,,,,
+inv1114,08/05/2026,08.20.2026,Anthony Ruiz,anthony.ruiz.sample@email.invalid,-,Pool Service,212.00,14.84$,Paid ,8/18/26,212.00 USD,ACH,
+1031,2026/03/02,3/17/26,"Gonzalez, Maria",maria.gonzalez.sample@email.invalid,5615550142,Pool Service - Monthly,#REF!,12.95$,Paid,03.15.2026,  $185.00 ,Cash,
+inv1115,08/01/2026,8/16/2026,"Nair, Priya",priya.nair.sample@email.invalid,954.555.0122,Pool Cleaning,175.00 USD,$12.25 ,PAID,46240,$175.00,VISA,
+1084,06/05/2026,2026-06-20,Anthony Ruiz,ANTHONY.RUIZ.SAMPLE@EMAIL.INVALID,561-555-0156,Pool Service - Monthly,212.00 USD,$14.84,Paid ,2026-06-11,$ 212.00,Cash,
+1213,2026-08-19,03-Sep-2026,"Bennett, Nicole",nicole.bennett.sample@email.invalid,,AC Service,960.00 USD,  $67.20 ,Paid,08/27/2026,960.00 USD,Bank transfer,Drain and condensate pump
+inv-1147,46298,2026/10/18,"Marino, Sofia",sofia.marino.sample@email.invalid,+1 561 555 0149,Pool Service,$ 217.30,,paid,10/7/26,$217.30 ,Visa,
+INV-1173 ,02/18/2026,2026/03/05,D. Moreau, ,+1 954 555 0195,HVAC Maintenance,220.00 USD,15.40$,paid,2026/03/02,"220,00",MC,Spring tune-up
+INV-1211 ,8/8/2026,23-Aug-2026,Pat Nguyen,patrick.nguyen.sample@email.invalid,+1 954 555 0186,HVAC Repair,1880,131.60$,paid,46255,"$1,880.00 ",ach,"Low voltage short, transformer"
+inv1100,07.01.2026,16-Jul-2026,P. Nair,priya.nair.sample@email.invalid,+1 954 555 0122,Weekly Pool Service,$175.00 ,12.25 USD,Paid,7/8/2026,$ 175.00,Check ,
+#1016,02-Feb-2026,17-Feb-2026,M. Gonzalez,maria.gonzalez.sample@email.invalid,+1 561 555 0142,pool clean,185.00 USD,12.95 USD,Paid,2/18/2026,185.00$,Bank transfer,
+INV1166,2026-01-09,01.24.2026,L Brooks,LAUREN.BROOKS.SAMPLE@EMAIL.INVALID,5615550177,hvac-repair,$890.00 ,"62,30",Paid ,2026/01/17,$890.00 ,ach,Capacitor and contactor
+inv-1145,2026/10/01,16-Oct-2026,"Nair, Priya",priya.nair.sample@@email.invalid,+1 954 555 0122,Weekly Pool Service,175.00,12.25,Paid ,10/10/26,  $175.00 ,ACH,
+1205,7/11/2026,46244,Breeze Bay Club,,+1 954 555 0239,Air Conditioning Repair,"$2,680.00 ",  $187.60 ,PAID,8/18/2026,2680.00$,Check,Club RTU repair
+inv1228,10/17/26,11.16.2026,BreezeBay Club,ops.breezebay.sample@email.invalid,(954) 555-0239,A/C Repair,1640,114.80,Paid ,2026/11/21,"$ 1,640.00",Mastercard,Club RTU sensors
+INV-1139,10/5/2026,10/20/2026,"Alvarez, Robert",robert.alvarez.sample@email.invalid,(954) 555-0133,pool clean,175,"12,25",paid,10/10/2026,175.00$,ACH ,
+Inv 1022,03-Feb-2026,2026/02/18,"Rossi, Elena",elena.rossi.sample@email.invalid,,Weekly Pool,$ 190.00,$ 13.30,PAID,2026/02/18,190.00 USD,Check,
+INV1141,"October 02, 2026",2026/10/17,Mike Thompson,mike.thompson.sample@email.invalid,-,pool clean,  $180.20 ,12.61$,PAID,10/15/2026,$180.20 ,VISA,
+#1138,2026/10/04,2026/10/19,S. Chen,sarah.chen.sample@email.invalid,5615550117,Pool Service,174.90$,,Paid ,16/10/2026,$174.90,Check ,
+Inv 1002,1/3/2026,18/01/2026,J. O'Brien,james.obrien.sample@email.invalid,(561) 555-0188,Weekly Pool,  $195.00 ,13.65$,PAID,17/01/2026,195.00$,CHK,
+inv1127,46268,18/09/2026,"Rossi, Elena", ,9545550171,Pool Cleaning,190.00,$ 13.30,Paid,09/21/2026,190.00$,ach,
+INV-1034 ,00/00/0000,2026-03-20,R. Alvarez,robert.alvarez.sample@email.invalid,(954) 555-0133,Weekly Pool,175,12.25$,Paid,3/22/26,175.00,Card,
+INV-1212,8/13/2026,46262,Hassan Farouk,hassan.farouk.sample@email.invalid,561-555-0134,hvac-repair,"USD 2,310.00",161.70,Paid,2026/08/31,"$ 2,310.00",ACH ,TXV and recharge
+#1122,09/03/2026,46283,Jim OBrien,james.obrien.sample@email.invalid,561-555-0188,pool clean,195.00 USD,USD 13.65,paid,46272,"195,00",CASH,
+Inv 1146,2026/10/02,2026-10-17,Christopher Walsh,chris.walsh.sample@email.invalid,-,Pool Service,185.00,$12.95 ,Paid,2026/10/11,185,CASH,
+inv-1143,10/4/2026,10/19/26,D. Kim,david.kim.sample@email.invalid,n/a,pool clean,$160.00 ,,PAID,10/13/26,$160.00,MC,
+INV1108,08.04.2026,19/08/2026,Sarah Chen,sarah.chen.sample@email.invalid,561-555-0117,Weekly Pool Service,  $174.90 ,"12,24",Paid ,46242,$174.90 ,CHK,
+#1046,02-Apr-2026,n/a,Maria Gonzales,maria.gonzalez.sample@email.invalid,n/a,Pool Service,$ 185.00,USD 12.95,PAID,19-Apr-2026,185.00,CASH,
+Inv 1229,10/22/26,11/6/2026,Thomas Grant,tom.grant.sample@email.invalid,954-555-0104,AC Service,"$1,320.00 ","92,40",Paid,05-Nov-2026,1320.00,Visa,Capacitor and contactors
+Inv 1135,09.04.2026,04-Oct-2026,Cypress Walk Association,board.cypresswalk.sample@email.invalid,561-555-0226,Weekly Pool Service,350,$ 24.50,Paid,46290,$ 350.00,ach,
+Inv 1098,7/4/26,46222,"Kim, David",david.kim.sample@email.invalid,561-555-0108,Weekly Pool,USD 160.00,,paid,46217,160.00,Check,
+Inv 1097,"July 03, 2026",2026/07/18,Elena Rossi,elena.rossi.sample@email.invalid,954-555-0171,Weekly Pool,USD 190.00,$ 13.30,PAID,07.11.2026,190,Visa,
+INV-1236 ,11/18/2026,2026/12/03,"Cole, Jasmine",jasmine.cole.sample@email.invalid,561-555-0152,Pool Repair,  $540.00 ,37.80,PAID,"November 23, 2026",$540.00,Card,"Salt cell, under warranty labor"
