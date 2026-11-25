@@ -1,0 +1,651 @@
+{
+  "as_of": "2026-11-25",
+  "company": "Lantern Key Pool & Air",
+  "disclaimer": "SAMPLE: synthetic data for a fictional business. Not a real company and not real results.",
+  "totals": {
+    "revenue": 183797.6,
+    "direct_cost": 106559.65,
+    "gross_profit": 77237.95,
+    "margin_pct": 0.4202,
+    "open_ar": 25708.01,
+    "cash_in": 159029.59,
+    "cash_out": 188109.23,
+    "net_cash": -29079.64,
+    "invoice_count": 240,
+    "customer_count": 25
+  },
+  "monthly": [
+    {
+      "month": "2026-01",
+      "label": "Jan 2026",
+      "revenue": 13490.0,
+      "direct_cost": 7820.32,
+      "gross_profit": 5669.68,
+      "margin_pct": 0.4203
+    },
+    {
+      "month": "2026-02",
+      "label": "Feb 2026",
+      "revenue": 7475.0,
+      "direct_cost": 3719.23,
+      "gross_profit": 3755.77,
+      "margin_pct": 0.5024
+    },
+    {
+      "month": "2026-03",
+      "label": "Mar 2026",
+      "revenue": 18480.0,
+      "direct_cost": 11584.67,
+      "gross_profit": 6895.33,
+      "margin_pct": 0.3731
+    },
+    {
+      "month": "2026-04",
+      "label": "Apr 2026",
+      "revenue": 14395.0,
+      "direct_cost": 8169.38,
+      "gross_profit": 6225.62,
+      "margin_pct": 0.4325
+    },
+    {
+      "month": "2026-05",
+      "label": "May 2026",
+      "revenue": 18715.0,
+      "direct_cost": 11185.39,
+      "gross_profit": 7529.61,
+      "margin_pct": 0.4023
+    },
+    {
+      "month": "2026-06",
+      "label": "Jun 2026",
+      "revenue": 21374.6,
+      "direct_cost": 13371.23,
+      "gross_profit": 8003.37,
+      "margin_pct": 0.3744
+    },
+    {
+      "month": "2026-07",
+      "label": "Jul 2026",
+      "revenue": 18094.6,
+      "direct_cost": 10072.12,
+      "gross_profit": 8022.48,
+      "margin_pct": 0.4434
+    },
+    {
+      "month": "2026-08",
+      "label": "Aug 2026",
+      "revenue": 14894.6,
+      "direct_cost": 7724.46,
+      "gross_profit": 7170.14,
+      "margin_pct": 0.4814
+    },
+    {
+      "month": "2026-09",
+      "label": "Sep 2026",
+      "revenue": 23969.6,
+      "direct_cost": 13346.76,
+      "gross_profit": 10622.84,
+      "margin_pct": 0.4432
+    },
+    {
+      "month": "2026-10",
+      "label": "Oct 2026",
+      "revenue": 20194.6,
+      "direct_cost": 12343.04,
+      "gross_profit": 7851.56,
+      "margin_pct": 0.3888
+    },
+    {
+      "month": "2026-11",
+      "label": "Nov 2026",
+      "revenue": 12714.6,
+      "direct_cost": 7223.05,
+      "gross_profit": 5491.55,
+      "margin_pct": 0.4319
+    }
+  ],
+  "service_lines": [
+    {
+      "service_line": "Weekly Pool Service",
+      "revenue": 36202.6,
+      "direct_cost": 15499.9,
+      "gross_profit": 20702.7,
+      "margin_pct": 0.5719,
+      "invoice_count": 160
+    },
+    {
+      "service_line": "Pool Repair",
+      "revenue": 20420.0,
+      "direct_cost": 12011.41,
+      "gross_profit": 8408.59,
+      "margin_pct": 0.4118,
+      "invoice_count": 22
+    },
+    {
+      "service_line": "HVAC Maintenance",
+      "revenue": 14065.0,
+      "direct_cost": 6794.69,
+      "gross_profit": 7270.31,
+      "margin_pct": 0.5169,
+      "invoice_count": 14
+    },
+    {
+      "service_line": "HVAC Repair",
+      "revenue": 52610.0,
+      "direct_cost": 28384.25,
+      "gross_profit": 24225.75,
+      "margin_pct": 0.4605,
+      "invoice_count": 35
+    },
+    {
+      "service_line": "Equipment Install",
+      "revenue": 60500.0,
+      "direct_cost": 43869.4,
+      "gross_profit": 16630.6,
+      "margin_pct": 0.2749,
+      "invoice_count": 9
+    }
+  ],
+  "aging": [
+    {
+      "bucket": "Current",
+      "balance": 8215.2,
+      "invoice_count": 6
+    },
+    {
+      "bucket": "1\u201330",
+      "balance": 4530.0,
+      "invoice_count": 3
+    },
+    {
+      "bucket": "31\u201360",
+      "balance": 3582.24,
+      "invoice_count": 4
+    },
+    {
+      "bucket": "61\u201390",
+      "balance": 2140.0,
+      "invoice_count": 1
+    },
+    {
+      "bucket": "90+",
+      "balance": 7240.57,
+      "invoice_count": 3
+    }
+  ],
+  "chase_first": [
+    {
+      "customer_id": "C002",
+      "customer_name": "Ocean Palms HOA",
+      "invoice_id": "INV-1206",
+      "invoice_ids": "INV-1206, INV-1226",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-07-16",
+      "due_date": "2026-08-15",
+      "balance": 4280.0,
+      "total_open_ar": 4725.2,
+      "days_past_due": 102,
+      "aging_bucket": "90+",
+      "past_due_count": 2,
+      "reason": "2 past-due invoices, $4,280.00 total. Past 90 days \u2014 call and send a written balance confirmation. This is one of the larger open balances."
+    },
+    {
+      "customer_id": "C014",
+      "customer_name": "Harbor Oaks Property Management",
+      "invoice_id": "INV-1207",
+      "invoice_ids": "INV-1207",
+      "service_line": "Equipment Install",
+      "invoice_date": "2026-07-22",
+      "due_date": "2026-08-21",
+      "balance": 4500.0,
+      "total_open_ar": 5980.0,
+      "days_past_due": 96,
+      "aging_bucket": "90+",
+      "past_due_count": 1,
+      "reason": "Past 90 days \u2014 call and send a written balance confirmation. This is one of the larger open balances."
+    },
+    {
+      "customer_id": "C010",
+      "customer_name": "Kevin Doyle",
+      "invoice_id": "INV-1184",
+      "invoice_ids": "INV-1184, INV-1243",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-04-08",
+      "due_date": "2026-04-23",
+      "balance": 1025.57,
+      "total_open_ar": 1025.57,
+      "days_past_due": 216,
+      "aging_bucket": "90+",
+      "past_due_count": 2,
+      "reason": "2 past-due invoices, $1,025.57 total. Past 90 days \u2014 call and send a written balance confirmation."
+    },
+    {
+      "customer_id": "C018",
+      "customer_name": "James O'Brien",
+      "invoice_id": "INV-1239",
+      "invoice_ids": "INV-1239",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-09-04",
+      "due_date": "2026-09-19",
+      "balance": 2140.0,
+      "total_open_ar": 2140.0,
+      "days_past_due": 67,
+      "aging_bucket": "61\u201390",
+      "past_due_count": 1,
+      "reason": "61\u201390 days past due \u2014 follow up this week. Notes mention waiting on insurance."
+    },
+    {
+      "customer_id": "C016",
+      "customer_name": "Riviera Court Condos",
+      "invoice_id": "INV-1240",
+      "invoice_ids": "INV-1240",
+      "service_line": "HVAC Maintenance",
+      "invoice_date": "2026-09-08",
+      "due_date": "2026-10-08",
+      "balance": 1875.0,
+      "total_open_ar": 2255.0,
+      "days_past_due": 48,
+      "aging_bucket": "31\u201360",
+      "past_due_count": 1,
+      "reason": "31\u201360 days past due \u2014 send a reminder and a copy of the invoice."
+    },
+    {
+      "customer_id": "C011",
+      "customer_name": "Lauren Brooks",
+      "invoice_id": "INV-1219",
+      "invoice_ids": "INV-1219, INV-1241",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-09-12",
+      "due_date": "2026-09-27",
+      "balance": 1282.24,
+      "total_open_ar": 1282.24,
+      "days_past_due": 59,
+      "aging_bucket": "31\u201360",
+      "past_due_count": 2,
+      "reason": "2 past-due invoices, $1,282.24 total. 31\u201360 days past due \u2014 send a reminder and a copy of the invoice."
+    },
+    {
+      "customer_id": "C020",
+      "customer_name": "Cypress Walk HOA",
+      "invoice_id": "INV-1242",
+      "invoice_ids": "INV-1242",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-10-03",
+      "due_date": "2026-11-02",
+      "balance": 1240.0,
+      "total_open_ar": 1590.0,
+      "days_past_due": 23,
+      "aging_bucket": "1\u201330",
+      "past_due_count": 1,
+      "reason": "Recently past due \u2014 a short reminder is enough to start."
+    },
+    {
+      "customer_id": "C021",
+      "customer_name": "Diane Moreau",
+      "invoice_id": "INV-1244",
+      "invoice_ids": "INV-1244",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-10-19",
+      "due_date": "2026-11-03",
+      "balance": 1150.0,
+      "total_open_ar": 5950.0,
+      "days_past_due": 22,
+      "aging_bucket": "1\u201330",
+      "past_due_count": 1,
+      "reason": "Recently past due \u2014 a short reminder is enough to start."
+    }
+  ],
+  "cash_monthly": [
+    {
+      "month": "2026-01",
+      "label": "Jan 2026",
+      "cash_in": 4135.0,
+      "job_costs": 7820.32,
+      "overhead": 7220.2,
+      "cash_out": 15040.52,
+      "net_cash": -10905.52
+    },
+    {
+      "month": "2026-02",
+      "label": "Feb 2026",
+      "cash_in": 12660.0,
+      "job_costs": 3719.23,
+      "overhead": 7307.28,
+      "cash_out": 11026.51,
+      "net_cash": 1633.49
+    },
+    {
+      "month": "2026-03",
+      "label": "Mar 2026",
+      "cash_in": 8575.0,
+      "job_costs": 11584.67,
+      "overhead": 7656.56,
+      "cash_out": 19241.23,
+      "net_cash": -10666.23
+    },
+    {
+      "month": "2026-04",
+      "label": "Apr 2026",
+      "cash_in": 21059.43,
+      "job_costs": 8169.38,
+      "overhead": 7223.89,
+      "cash_out": 15393.27,
+      "net_cash": 5666.16
+    },
+    {
+      "month": "2026-05",
+      "label": "May 2026",
+      "cash_in": 22575.0,
+      "job_costs": 11185.39,
+      "overhead": 7308.12,
+      "cash_out": 18493.51,
+      "net_cash": 4081.49
+    },
+    {
+      "month": "2026-06",
+      "label": "Jun 2026",
+      "cash_in": 9559.4,
+      "job_costs": 13371.23,
+      "overhead": 7471.85,
+      "cash_out": 20843.08,
+      "net_cash": -11283.68
+    },
+    {
+      "month": "2026-07",
+      "label": "Jul 2026",
+      "cash_in": 22854.6,
+      "job_costs": 10072.12,
+      "overhead": 7576.42,
+      "cash_out": 17648.54,
+      "net_cash": 5206.06
+    },
+    {
+      "month": "2026-08",
+      "label": "Aug 2026",
+      "cash_in": 16489.8,
+      "job_costs": 7724.46,
+      "overhead": 7551.22,
+      "cash_out": 15275.68,
+      "net_cash": 1214.12
+    },
+    {
+      "month": "2026-09",
+      "label": "Sep 2026",
+      "cash_in": 14237.16,
+      "job_costs": 13346.76,
+      "overhead": 7803.15,
+      "cash_out": 21149.91,
+      "net_cash": -6912.75
+    },
+    {
+      "month": "2026-10",
+      "label": "Oct 2026",
+      "cash_in": 18879.8,
+      "job_costs": 12343.04,
+      "overhead": 7238.69,
+      "cash_out": 19581.73,
+      "net_cash": -701.93
+    },
+    {
+      "month": "2026-11",
+      "label": "Nov 2026",
+      "cash_in": 8004.4,
+      "job_costs": 7223.05,
+      "overhead": 7192.2,
+      "cash_out": 14415.25,
+      "net_cash": -6410.85
+    }
+  ],
+  "ar_invoices": [
+    {
+      "invoice_id": "INV-1184",
+      "customer_name": "Kevin Doyle",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-04-08",
+      "due_date": "2026-04-23",
+      "amount": 1560.0,
+      "amount_paid": 959.43,
+      "balance": 600.57,
+      "days_past_due": 216,
+      "aging_bucket": "90+",
+      "status": "Partial"
+    },
+    {
+      "invoice_id": "INV-1206",
+      "customer_name": "Ocean Palms HOA",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-07-16",
+      "due_date": "2026-08-15",
+      "amount": 2140.0,
+      "amount_paid": 0.0,
+      "balance": 2140.0,
+      "days_past_due": 102,
+      "aging_bucket": "90+",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1207",
+      "customer_name": "Harbor Oaks Property Management",
+      "service_line": "Equipment Install",
+      "invoice_date": "2026-07-22",
+      "due_date": "2026-08-21",
+      "amount": 4500.0,
+      "amount_paid": 0.0,
+      "balance": 4500.0,
+      "days_past_due": 96,
+      "aging_bucket": "90+",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1239",
+      "customer_name": "James O'Brien",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-09-04",
+      "due_date": "2026-09-19",
+      "amount": 2140.0,
+      "amount_paid": 0.0,
+      "balance": 2140.0,
+      "days_past_due": 67,
+      "aging_bucket": "61\u201390",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1219",
+      "customer_name": "Lauren Brooks",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-09-12",
+      "due_date": "2026-09-27",
+      "amount": 740.0,
+      "amount_paid": 347.76,
+      "balance": 392.24,
+      "days_past_due": 59,
+      "aging_bucket": "31\u201360",
+      "status": "Partial"
+    },
+    {
+      "invoice_id": "INV-1240",
+      "customer_name": "Riviera Court Condos",
+      "service_line": "HVAC Maintenance",
+      "invoice_date": "2026-09-08",
+      "due_date": "2026-10-08",
+      "amount": 1875.0,
+      "amount_paid": 0.0,
+      "balance": 1875.0,
+      "days_past_due": 48,
+      "aging_bucket": "31\u201360",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1241",
+      "customer_name": "Lauren Brooks",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-09-28",
+      "due_date": "2026-10-13",
+      "amount": 890.0,
+      "amount_paid": 0.0,
+      "balance": 890.0,
+      "days_past_due": 43,
+      "aging_bucket": "31\u201360",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1243",
+      "customer_name": "Kevin Doyle",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-10-08",
+      "due_date": "2026-10-23",
+      "amount": 425.0,
+      "amount_paid": 0.0,
+      "balance": 425.0,
+      "days_past_due": 33,
+      "aging_bucket": "31\u201360",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1242",
+      "customer_name": "Cypress Walk HOA",
+      "service_line": "Pool Repair",
+      "invoice_date": "2026-10-03",
+      "due_date": "2026-11-02",
+      "amount": 1240.0,
+      "amount_paid": 0.0,
+      "balance": 1240.0,
+      "days_past_due": 23,
+      "aging_bucket": "1\u201330",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1244",
+      "customer_name": "Diane Moreau",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-10-19",
+      "due_date": "2026-11-03",
+      "amount": 1150.0,
+      "amount_paid": 0.0,
+      "balance": 1150.0,
+      "days_past_due": 22,
+      "aging_bucket": "1\u201330",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1226",
+      "customer_name": "Ocean Palms HOA",
+      "service_line": "Equipment Install",
+      "invoice_date": "2026-10-09",
+      "due_date": "2026-11-08",
+      "amount": 9200.0,
+      "amount_paid": 7060.0,
+      "balance": 2140.0,
+      "days_past_due": 17,
+      "aging_bucket": "1\u201330",
+      "status": "Partial"
+    },
+    {
+      "invoice_id": "INV-1234",
+      "customer_name": "Diane Moreau",
+      "service_line": "Equipment Install",
+      "invoice_date": "2026-11-12",
+      "due_date": "2026-11-27",
+      "amount": 4800.0,
+      "amount_paid": 0.0,
+      "balance": 4800.0,
+      "days_past_due": -2,
+      "aging_bucket": "Current",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1163",
+      "customer_name": "Ocean Palms HOA",
+      "service_line": "Weekly Pool Service",
+      "invoice_date": "2026-11-02",
+      "due_date": "2026-12-02",
+      "amount": 445.2,
+      "amount_paid": 0.0,
+      "balance": 445.2,
+      "days_past_due": -7,
+      "aging_bucket": "Current",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1164",
+      "customer_name": "Riviera Court Condos",
+      "service_line": "Weekly Pool Service",
+      "invoice_date": "2026-11-03",
+      "due_date": "2026-12-03",
+      "amount": 380.0,
+      "amount_paid": 0.0,
+      "balance": 380.0,
+      "days_past_due": -8,
+      "aging_bucket": "Current",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1237",
+      "customer_name": "Elena Rossi",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-11-19",
+      "due_date": "2026-12-04",
+      "amount": 760.0,
+      "amount_paid": 0.0,
+      "balance": 760.0,
+      "days_past_due": -9,
+      "aging_bucket": "Current",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1165",
+      "customer_name": "Cypress Walk HOA",
+      "service_line": "Weekly Pool Service",
+      "invoice_date": "2026-11-04",
+      "due_date": "2026-12-04",
+      "amount": 350.0,
+      "amount_paid": 0.0,
+      "balance": 350.0,
+      "days_past_due": -9,
+      "aging_bucket": "Current",
+      "status": "Open"
+    },
+    {
+      "invoice_id": "INV-1233",
+      "customer_name": "Harbor Oaks Property Management",
+      "service_line": "HVAC Repair",
+      "invoice_date": "2026-11-10",
+      "due_date": "2026-12-10",
+      "amount": 1480.0,
+      "amount_paid": 0.0,
+      "balance": 1480.0,
+      "days_past_due": -15,
+      "aging_bucket": "Current",
+      "status": "Open"
+    }
+  ],
+  "quality": {
+    "raw_invoice_rows": 249,
+    "duplicate_invoice_rows_dropped": 4,
+    "clean_invoices": 245,
+    "clean_payments": 231,
+    "customer_variants_in": 89,
+    "customers_after_merge": 25,
+    "customer_groups_merged": 25,
+    "dates_standardized": 720,
+    "amounts_parsed": 481,
+    "service_lines_standardized": 249,
+    "unparseable_dates": 2,
+    "unparseable_amounts": 3,
+    "rows_flagged": 16,
+    "orphan_jobs": 2,
+    "duplicate_expense_rows_dropped": 1,
+    "clean_jobs": 247,
+    "clean_expenses": 78,
+    "clean_leads": 46
+  },
+  "quality_event_counts": {
+    "unparseable_amount": 3,
+    "date_fixed": 1,
+    "unparseable_date": 2,
+    "duplicate_row_dropped": 5,
+    "customer_merged": 25,
+    "flagged": 9,
+    "orphan_job": 2
+  }
+}

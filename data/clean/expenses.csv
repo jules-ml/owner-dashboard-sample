@@ -1,0 +1,79 @@
+expense_id,expense_date,vendor,category,amount,method,memo
+E-7001,2026-01-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7002,2026-01-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7003,2026-01-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7004,2026-01-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7005,2026-01-09,Gulf Sample Fuel Card,Fuel,1047.03,Visa,Fuel
+E-7006,2026-01-17,Sample Dump & Disposal,Waste Disposal,88.07,Check,Waste disposal
+E-7007,2026-01-10,Office Supply Sample Co.,Office,126.1,Visa,Office
+E-7008,2026-02-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7009,2026-02-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7010,2026-02-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7011,2026-02-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7012,2026-02-06,Gulf Sample Fuel Card,Fuel,1078.7,Visa,Fuel
+E-7013,2026-02-15,Sample Dump & Disposal,Waste Disposal,118.14,Check,Waste disposal
+E-7014,2026-02-12,Office Supply Sample Co.,Office,151.44,Ach,Office
+E-7015,2026-03-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7016,2026-03-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7017,2026-03-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7018,2026-03-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7019,2026-03-07,Gulf Sample Fuel Card,Fuel,1115.27,Check,Fuel
+E-7020,2026-03-19,Sample Dump & Disposal,Waste Disposal,99.54,Check,Waste disposal
+E-7021,2026-03-18,Office Supply Sample Co.,Office,142.75,Check,Office
+E-7022,2026-03-08,Coastal Sample Uniforms,Uniforms,340.0,Check,Uniforms
+E-7023,2026-04-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7024,2026-04-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7025,2026-04-01,Atlantic Sample Plaza Llc,Shop Rent,2400.0,Ach,Shop rent
+E-7026,2026-04-03,Routebook Software (Sample),Software,189.0,Ach,Software
+E-7027,2026-04-10,Gulf Sample Fuel Card,Fuel,1023.5,Check,Fuel
+E-7028,2026-04-16,Sample Dump & Disposal,Waste Disposal,100.74,Check,Waste disposal
+E-7029,2026-04-19,Office Supply Sample Co.,Office,140.65,Check,Office
+E-7030,2026-05-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7031,2026-05-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7032,2026-05-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7033,2026-05-03,Routebook Software (Sample),Software,189.0,Ach,Software
+E-7034,2026-05-08,Gulf Sample Fuel Card,Fuel,1105.3,Visa,Fuel
+E-7035,2026-05-18,Sample Dump & Disposal,Waste Disposal,94.02,Visa,Waste disposal
+E-7036,2026-05-22,Office Supply Sample Co.,Office,149.8,Ach,Office
+E-7037,2026-06-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7038,2026-06-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7039,2026-06-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7040,2026-06-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7041,2026-06-12,Gulf Sample Fuel Card,Fuel,1338.01,Check,Fuel
+E-7042,2026-06-17,Sample Dump & Disposal,Waste Disposal,103.16,Check,Waste disposal
+E-7043,2026-06-15,Office Supply Sample Co.,Office,71.68,Check,Office
+E-7044,2026-07-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7045,2026-07-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7046,2026-07-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7047,2026-07-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7048,2026-07-12,Gulf Sample Fuel Card,Fuel,1333.35,Check,Fuel
+E-7049,2026-07-16,Sample Dump & Disposal,Waste Disposal,129.16,Check,Waste disposal
+E-7050,2026-07-19,Office Supply Sample Co.,Office,154.91,Check,Office
+E-7051,2026-08-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7052,2026-08-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7053,2026-08-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7054,2026-08-03,Routebook Software (Sample),Software,189.0,Ach,Software
+E-7055,2026-08-06,Gulf Sample Fuel Card,Fuel,1256.82,Visa,Fuel
+E-7056,2026-08-14,Sample Dump & Disposal,Waste Disposal,134.28,Check,Waste disposal
+E-7057,2026-08-23,Office Supply Sample Co.,Office,201.12,Ach,Office
+E-7058,2026-09-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7059,2026-09-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7060,2026-09-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7061,2026-09-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7062,2026-09-07,Gulf Sample Fuel Card,Fuel,1335.87,Visa,Fuel
+E-7063,2026-09-15,Sample Dump & Disposal,Waste Disposal,95.04,Visa,Waste disposal
+E-7064,2026-09-23,Office Supply Sample Co.,Office,73.24,Ach,Office
+E-7065,2026-09-08,Coastal Sample Uniforms,Uniforms,340.0,Ach,Uniforms
+E-7066,2026-10-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7067,2026-10-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7068,2026-10-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7069,2026-10-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7070,2026-10-08,Gulf Sample Fuel Card,Fuel,1072.17,Check,Fuel
+E-7071,2026-10-19,Sample Dump & Disposal,Waste Disposal,100.56,Check,Waste disposal
+E-7072,2026-10-12,Office Supply Sample Co.,Office,106.96,Ach,Office
+E-7073,2026-11-01,Sample Mutual Insurance,Insurance,1850.0,Ach,Insurance
+E-7074,2026-11-01,Southeast Sample Truck Lease,Vehicle Lease,1520.0,Ach,Vehicle lease
+E-7075,2026-11-01,Atlantic Sample Plaza LLC,Shop Rent,2400.0,Ach,Shop rent
+E-7076,2026-11-03,Routebook Software (sample),Software,189.0,Ach,Software
+E-7077,2026-11-11,Gulf Sample Fuel Card,Fuel,1113.55,Visa,Fuel
+E-7078,2026-11-18,Sample Dump & Disposal,Waste Disposal,119.65,Check,Waste disposal

@@ -1,0 +1,26 @@
+customer_id,customer_name,email,phone,name_variants,variant_count,mention_count
+C001,Jasmine Cole,jasmine.cole.sample@email.invalid,5615550152,"Cole, Jasmine | J. Cole | Jasmine Cole",3,6
+C002,Ocean Palms HOA,office.oceanpalms.sample@email.invalid,5615550201,Ocean Palms H.O.A. | Ocean Palms HOA | Ocean Palms Hoa | Ocean Palms Hoa Inc,4,14
+C003,David Kim,david.kim.sample@email.invalid,5615550108,"D. Kim | David Kim | Kim, David | david kim",4,13
+C004,Priya Nair,priya.nair.sample@email.invalid,9545550122,"Nair, Priya | P. Nair | PRIYA NAIR | Priya Nair",4,11
+C005,Sofia Marino,sofia.marino.sample@email.invalid,5615550149,"Marino, Sofia | S Marino | Sofia Marino",3,12
+C006,Hassan Farouk,hassan.farouk.sample@email.invalid,5615550134,H. Farouk | Hassan Farouk,2,5
+C007,Elena Rossi,elena.rossi.sample@email.invalid,9545550171,"ELENA ROSSI | Elena Rossi | Rossi, Elena",3,13
+C008,Anthony Ruiz,anthony.ruiz.sample@email.invalid,5615550156,Anthony  Ruiz | Anthony Ruiz | Tony Ruiz,3,12
+C009,Maria Gonzalez,maria.gonzalez.sample@email.invalid,5615550142,"Gonzalez, Maria | M. Gonzalez | MARIA GONZALEZ | Maria Gonzales | Maria Gonzalez",5,11
+C010,Kevin Doyle,kevin.doyle.sample@email.invalid,5615550128,"Doyle, Kevin | K Doyle | Kevin Doyle",3,6
+C011,Lauren Brooks,lauren.brooks.sample@email.invalid,5615550177,"Brooks, Lauren | L Brooks | Lauren Brooks | lauren brooks",4,8
+C012,Nicole Bennett,nicole.bennett.sample@email.invalid,5615550169,"Bennett, Nicole | N. Bennett | NICOLE BENNETT",3,7
+C013,Patrick Nguyen,patrick.nguyen.sample@email.invalid,9545550186,P. Nguyen | Pat Nguyen | Patrick Nguyen,3,6
+C014,Harbor Oaks Property Management,ap.harboroaks.sample@email.invalid,5615550245,Harbor Oaks PM | Harbor Oaks Property Management | Harbor Oaks Property Mgmt | Harbor Oaks Property Mgmt.,4,6
+C015,Aisha Patel,aisha.patel.sample@email.invalid,5615550164,"Aisha  Patel | Aisha Patel | Patel, Aisha",3,11
+C016,Riviera Court Condos,manager.rivieracourt.sample@email.invalid,5615550214,Riviera Court Condo | Riviera Court Condo Assoc | Riviera Court Condos | Riviera Court Condos Inc,4,12
+C017,Michael Thompson,mike.thompson.sample@email.invalid,5615550190,"M Thompson | Michael Thompson | Mike Thompson | Thompson, Michael",4,13
+C018,James O'Brien,james.obrien.sample@email.invalid,5615550188,"J. O'Brien | James O Brien | James O'Brien | Jim OBrien | O'Brien, James",5,12
+C019,Christopher Walsh,chris.walsh.sample@email.invalid,5615550181,"C. Walsh | Chris Walsh | Christopher Walsh | Walsh, Christopher",4,11
+C020,Cypress Walk HOA,board.cypresswalk.sample@email.invalid,5615550226,Cypress Walk Assn | Cypress Walk Assoc | Cypress Walk Association | Cypress Walk HOA,4,14
+C021,Diane Moreau,diane.moreau.sample@email.invalid,9545550195,"D. Moreau | Diane Moreau | Moreau, Diane",3,8
+C022,Sarah Chen,sarah.chen.sample@email.invalid,5615550117,"Chen, Sarah | S. Chen | Sarah Chen | sara chen",4,11
+C023,Thomas Grant,tom.grant.sample@email.invalid,9545550104,T. Grant | Thomas Grant | Tom Grant,3,6
+C024,Robert Alvarez,robert.alvarez.sample@email.invalid,9545550133,"Alvarez, Robert | Bob Alvarez | R. Alvarez",3,11
+C025,Breeze Bay Club LLC,ops.breezebay.sample@email.invalid,9545550239,"Breeze Bay Club | Breeze Bay Club LLC | Breeze Bay Club, LLC | BreezeBay Club",4,6

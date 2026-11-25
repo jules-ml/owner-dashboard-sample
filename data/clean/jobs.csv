@@ -1,0 +1,248 @@
+job_id,job_date,customer_id,customer_name,service_line,invoice_id,labor_cost,materials_cost,hours,tech,status,notes,source_row,direct_cost
+JOB-4198,2026-06-09,C013,Patrick Nguyen,HVAC Repair,INV-1198,715.57,438.58,14.4,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:1,1154.15
+JOB-4072,2026-05-04,C005,Sofia Marino,Weekly Pool Service,INV-1072,58.35,35.77,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:2,94.12
+JOB-4101,2026-07-03,C019,Christopher Walsh,Weekly Pool Service,INV-1101,47.91,29.36,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:3,77.27
+JOB-4135,2026-09-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1135,94.9,58.16,3.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:4,153.06
+JOB-4073,2026-05-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1073,104.71,64.17,5.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:5,168.88
+JOB-4152,2026-11-04,C018,James O'Brien,Weekly Pool Service,INV-1152,49.08,30.08,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:6,79.16
+JOB-4027,2026-02-04,C005,Sofia Marino,Weekly Pool Service,INV-1027,48.65,29.82,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:7,78.47
+JOB-4189,2026-04-28,C001,Jasmine Cole,HVAC Repair,INV-1189,250.03,153.25,5.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:8,403.28
+JOB-4178,2026-03-12,C006,Hassan Farouk,HVAC Repair,INV-1178,309.56,189.73,5.7,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:9,499.29
+JOB-4151,2026-11-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1151,52.51,32.18,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:10,84.69
+JOB-4102,2026-07-04,C005,Sofia Marino,Weekly Pool Service,INV-1102,60.91,37.33,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:11,98.24
+JOB-4103,2026-07-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1103,112.7,69.07,3.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:12,181.77
+JOB-4201,2026-06-21,C010,Kevin Doyle,Pool Repair,INV-1201,454.16,278.35,10.3,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:13,732.51
+JOB-4235,2026-11-12,C013,Patrick Nguyen,HVAC Maintenance,INV-1235,68.7,42.1,1.3,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:14,110.8
+JOB-4031,2026-03-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1031,44.44,27.23,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:15,71.67
+JOB-4156,2026-11-03,C017,Michael Thompson,Weekly Pool Service,INV-1156,43.05,26.39,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:16,69.44
+JOB-4244,2026-10-19,C021,Diane Moreau,HVAC Repair,INV-1244,378.05,231.71,7.9,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:17,609.76
+JOB-4237,2026-11-17,C007,Elena Rossi,HVAC Repair,INV-1237,246.79,151.26,4.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:18,398.05
+JOB-4105,2026-07-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1105,91.59,56.14,3.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:19,147.73
+JOB-4161,2026-11-03,C019,Christopher Walsh,Weekly Pool Service,INV-1161,46.05,28.22,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:20,74.27
+JOB-4163,2026-11-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1163,126.52,77.54,5.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:21,204.06
+JOB-4036,2026-03-03,C017,Michael Thompson,Weekly Pool Service,INV-1036,45.73,28.02,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:22,73.75
+JOB-4221,2026-09-16,C017,Michael Thompson,Pool Repair,INV-1221,400.45,245.43,8.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:23,645.88
+JOB-4187,2026-04-18,C013,Patrick Nguyen,Equipment Install,INV-1187,1043.71,1938.32,20.6,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:24,2982.03
+JOB-4193,2026-05-17,C017,Michael Thompson,Pool Repair,INV-1193,223.03,136.7,4.8,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:25,359.73
+JOB-4224,2026-10-01,C012,Nicole Bennett,HVAC Maintenance,INV-1224,65.55,40.18,1.2,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:26,105.73
+JOB-4145,2026-10-02,C004,Priya Nair,Weekly Pool Service,INV-1145,44.82,27.47,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:27,72.29
+JOB-4104,2026-07-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1104,96.12,58.91,3.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:28,155.03
+JOB-4234,2026-11-10,C021,Diane Moreau,Equipment Install,INV-1234,1182.13,2195.39,23.3,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:29,3377.52
+JOB-4091,2026-07-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1091,51.38,31.49,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:30,82.87
+JOB-4213,2026-08-19,C012,Nicole Bennett,HVAC Repair,INV-1213,308.92,189.33,6.2,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:31,498.25
+JOB-4054,2026-04-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1054,55.82,34.22,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:32,90.04
+JOB-4123,2026-09-05,C022,Sarah Chen,Weekly Pool Service,INV-1123,45.68,28.0,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:33,73.68
+JOB-4078,2026-06-05,C022,Sarah Chen,Weekly Pool Service,INV-1078,48.15,29.51,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:34,77.66
+JOB-4096,2026-07-03,C017,Michael Thompson,Weekly Pool Service,INV-1096,51.26,31.42,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:35,82.68
+JOB-4223,2026-09-27,C013,Patrick Nguyen,HVAC Repair,INV-1223,296.4,181.67,5.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:36,478.07
+JOB-4007,2026-01-04,C007,Elena Rossi,Weekly Pool Service,INV-1007,46.05,28.22,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:37,74.27
+JOB-4229,2026-10-20,C023,Thomas Grant,HVAC Repair,INV-1229,450.03,275.82,8.3,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:38,725.85
+JOB-4141,2026-10-03,C017,Michael Thompson,Weekly Pool Service,INV-1141,43.17,26.46,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:39,69.63
+JOB-4143,2026-10-05,C003,David Kim,Weekly Pool Service,INV-1143,41.54,25.46,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:40,67.0
+JOB-4202,2026-06-26,C001,Jasmine Cole,HVAC Repair,INV-1202,878.23,538.27,20.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:41,1416.5
+JOB-4053,2026-04-05,C003,David Kim,Weekly Pool Service,INV-1053,39.34,24.11,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:42,63.45
+JOB-4060,2026-04-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1060,88.01,53.94,4.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:43,141.95
+JOB-4004,2026-01-06,C024,Robert Alvarez,Weekly Pool Service,INV-1004,47.33,29.01,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:44,76.34
+JOB-4173,2026-02-17,C021,Diane Moreau,HVAC Maintenance,INV-1173,67.96,41.66,1.6,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:45,109.62
+JOB-4009,2026-01-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1009,50.54,30.97,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:46,81.51
+JOB-4140,2026-10-02,C015,Aisha Patel,Weekly Pool Service,INV-1140,44.81,27.46,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:47,72.27
+JOB-4001,2026-01-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1001,49.87,30.57,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:48,80.44
+JOB-4214,2026-08-21,C021,Diane Moreau,HVAC Repair,INV-1214,855.74,524.49,19.4,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:49,1380.23
+JOB-4075,2026-05-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1075,98.26,60.23,6.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:50,158.49
+JOB-4167,2026-01-14,C006,Hassan Farouk,Pool Repair,INV-1167,239.55,146.82,5.2,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:51,386.37
+JOB-4137,2026-10-04,C018,James O'Brien,Weekly Pool Service,INV-1137,55.25,33.86,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:52,89.11
+JOB-4112,2026-08-04,C007,Elena Rossi,Weekly Pool Service,INV-1112,48.48,29.72,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:53,78.2
+JOB-4032,2026-03-04,C018,James O'Brien,Weekly Pool Service,INV-1032,48.34,29.63,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:54,77.97
+JOB-4144,2026-10-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1144,57.77,35.41,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:55,93.18
+JOB-4052,2026-04-04,C007,Elena Rossi,Weekly Pool Service,INV-1052,51.17,31.37,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:56,82.54
+JOB-4186,2026-04-14,C020,Cypress Walk HOA,HVAC Maintenance,INV-1186,662.61,406.11,14.9,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:57,1068.72
+JOB-4230,2026-10-26,C011,Lauren Brooks,HVAC Maintenance,INV-1230,62.59,38.36,1.2,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:58,100.95
+JOB-4022,2026-02-04,C007,Elena Rossi,Weekly Pool Service,INV-1022,47.84,29.32,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:59,77.16
+JOB-4146,2026-10-03,C019,Christopher Walsh,Weekly Pool Service,INV-1146,44.42,27.23,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:60,71.65
+JOB-4205,2026-07-11,C025,Breeze Bay Club LLC,HVAC Repair,INV-1205,886.59,543.39,16.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:61,1429.98
+JOB-4003,2026-01-05,C022,Sarah Chen,Weekly Pool Service,INV-1003,45.57,27.93,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:62,73.5
+JOB-4169,2026-01-27,C023,Thomas Grant,Equipment Install,INV-1169,1586.7,2946.74,32.8,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:63,4533.44
+JOB-4055,2026-04-02,C004,Priya Nair,Weekly Pool Service,INV-1055,44.03,26.98,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:64,71.01
+JOB-4166,2026-01-07,C011,Lauren Brooks,HVAC Repair,INV-1166,281.62,172.61,5.9,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:65,454.23
+JOB-4240,2026-09-08,C016,Riviera Court Condos,HVAC Maintenance,INV-1240,569.9,349.3,11.8,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:66,919.2
+JOB-4225,2026-10-06,C021,Diane Moreau,HVAC Maintenance,INV-1225,60.07,36.82,1.3,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:67,96.89
+JOB-4142,2026-10-04,C007,Elena Rossi,Weekly Pool Service,INV-1142,47.21,28.93,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:68,76.14
+JOB-4041,2026-03-03,C019,Christopher Walsh,Weekly Pool Service,INV-1041,48.23,29.56,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:69,77.79
+JOB-4175,2026-02-25,C011,Lauren Brooks,Pool Repair,INV-1175,194.12,118.98,3.4,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:70,313.1
+JOB-4013,2026-01-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1013,104.1,63.8,4.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:71,167.9
+JOB-4191,2026-05-08,C014,Harbor Oaks Property Management,Pool Repair,INV-1191,579.86,355.39,12.7,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:72,935.25
+JOB-4155,2026-11-02,C015,Aisha Patel,Weekly Pool Service,INV-1155,42.41,26.0,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:73,68.41
+JOB-4238,2026-10-21,C001,Jasmine Cole,HVAC Maintenance,INV-1238,67.05,41.1,1.2,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:74,108.15
+JOB-4195,2026-05-25,C025,Breeze Bay Club LLC,HVAC Repair,INV-1195,629.83,386.02,14.2,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:75,1015.85
+JOB-4126,2026-09-03,C017,Michael Thompson,Weekly Pool Service,INV-1126,42.81,26.24,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:76,69.05
+JOB-4192,2026-05-13,C006,Hassan Farouk,Equipment Install,INV-1192,1934.01,3591.74,34.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:77,5525.75
+JOB-4038,2026-03-05,C003,David Kim,Weekly Pool Service,INV-1038,43.66,26.76,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:78,70.42
+JOB-4034,2026-03-06,C024,Robert Alvarez,Weekly Pool Service,INV-1034,44.81,27.47,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:79,72.28
+JOB-4077,2026-06-04,C018,James O'Brien,Weekly Pool Service,INV-1077,53.05,32.51,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:80,85.56
+JOB-4074,2026-05-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1074,96.45,59.11,4.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:81,155.56
+JOB-4111,2026-08-03,C017,Michael Thompson,Weekly Pool Service,INV-1111,44.29,27.14,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:82,71.43
+JOB-4185,2026-04-10,C021,Diane Moreau,HVAC Repair,INV-1185,675.55,414.04,13.9,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:83,1089.59
+JOB-4042,2026-03-04,C005,Sofia Marino,Weekly Pool Service,INV-1042,50.51,30.96,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:84,81.47
+JOB-4197,2026-06-06,C023,Thomas Grant,HVAC Repair,INV-1197,345.21,211.58,7.6,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:85,556.79
+JOB-4028,2026-02-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1028,101.95,62.49,4.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:86,164.44
+JOB-4066,2026-05-03,C017,Michael Thompson,Weekly Pool Service,INV-1066,42.97,26.34,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:87,69.31
+JOB-4107,2026-08-04,C018,James O'Brien,Weekly Pool Service,INV-1107,49.37,30.26,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:88,79.63
+JOB-4065,2026-05-02,C015,Aisha Patel,Weekly Pool Service,INV-1065,44.31,27.15,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:89,71.46
+JOB-4212,2026-08-13,C006,Hassan Farouk,HVAC Repair,INV-1212,758.39,464.82,13.4,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:90,1223.21
+JOB-4188,2026-04-20,C008,Anthony Ruiz,Pool Repair,INV-1188,164.59,100.88,3.3,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:91,265.47
+JOB-4109,2026-08-06,C024,Robert Alvarez,Weekly Pool Service,INV-1109,46.18,28.31,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:92,74.49
+JOB-4204,2026-07-08,C021,Diane Moreau,HVAC Repair,INV-1204,705.9,432.65,12.9,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:93,1138.55
+JOB-4215,2026-08-26,C001,Jasmine Cole,Pool Repair,INV-1215,309.82,189.89,7.2,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:94,499.71
+JOB-4076,2026-06-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1076,43.76,26.82,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:95,70.58
+JOB-4128,2026-09-05,C003,David Kim,Weekly Pool Service,INV-1128,44.03,26.99,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:96,71.02
+JOB-4093,2026-07-05,C022,Sarah Chen,Weekly Pool Service,INV-1093,46.96,28.79,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:97,75.75
+JOB-4125,2026-09-02,C015,Aisha Patel,Weekly Pool Service,INV-1125,43.51,26.67,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:98,70.18
+JOB-4194,2026-05-21,C012,Nicole Bennett,HVAC Repair,INV-1194,413.86,253.66,7.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:99,667.52
+JOB-4232,2026-11-06,C012,Nicole Bennett,HVAC Repair,INV-1232,296.96,182.01,6.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:100,478.97
+JOB-4088,2026-06-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1088,110.52,67.73,5.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:101,178.25
+JOB-4044,2026-03-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1044,97.14,59.53,4.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:102,156.67
+JOB-4148,2026-10-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1148,110.08,67.47,4.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:103,177.55
+JOB-4059,2026-04-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1059,101.1,61.97,6.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:104,163.07
+JOB-4021,2026-02-03,C017,Michael Thompson,Weekly Pool Service,INV-1021,47.88,29.34,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:105,77.22
+JOB-4147,2026-10-04,C005,Sofia Marino,Weekly Pool Service,INV-1147,56.85,34.84,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:106,91.69
+JOB-4162,2026-11-04,C005,Sofia Marino,Weekly Pool Service,INV-1162,61.27,37.56,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:107,98.83
+JOB-4180,2026-03-19,C025,Breeze Bay Club LLC,HVAC Repair,INV-1180,677.74,415.39,15.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:108,1093.13
+JOB-4134,2026-09-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1134,101.59,62.26,3.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:109,163.85
+JOB-4181,2026-03-23,C023,Thomas Grant,HVAC Maintenance,INV-1181,59.75,36.62,1.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:110,96.37
+JOB-4018,2026-02-05,C022,Sarah Chen,Weekly Pool Service,INV-1018,42.2,25.86,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:111,68.06
+JOB-4206,2026-07-15,C002,Ocean Palms HOA,Pool Repair,INV-1206,716.7,439.27,14.7,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:112,1155.97
+JOB-4171,2026-02-04,C012,Nicole Bennett,HVAC Repair,INV-1171,393.22,241.0,7.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:113,634.22
+JOB-4005,2026-01-02,C015,Aisha Patel,Weekly Pool Service,INV-1005,43.81,26.85,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:114,70.66
+JOB-4020,2026-02-02,C015,Aisha Patel,Weekly Pool Service,INV-1020,42.53,26.07,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:115,68.6
+JOB-4226,2026-10-07,C002,Ocean Palms HOA,Equipment Install,INV-1226,2365.76,4393.56,56.1,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:116,6759.32
+JOB-4033,2026-03-05,C022,Sarah Chen,Weekly Pool Service,INV-1033,46.66,28.59,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:117,75.25
+JOB-4211,2026-08-06,C013,Patrick Nguyen,HVAC Repair,INV-1211,659.09,403.96,13.9,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:118,1063.05
+JOB-4012,2026-01-04,C005,Sofia Marino,Weekly Pool Service,INV-1012,54.7,33.52,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:119,88.22
+JOB-4039,2026-03-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1039,51.44,31.53,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:120,82.97
+JOB-4061,2026-05-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1061,48.03,29.44,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:121,77.47
+JOB-4199,2026-06-14,C014,Harbor Oaks Property Management,Equipment Install,INV-1199,2333.76,4334.13,43.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:122,6667.89
+JOB-4208,2026-07-24,C003,David Kim,Pool Repair,INV-1208,145.49,89.17,2.7,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:123,234.66
+JOB-4196,2026-06-03,C021,Diane Moreau,HVAC Repair,INV-1196,480.5,294.5,10.6,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:124,775.0
+JOB-4081,2026-06-03,C017,Michael Thompson,Weekly Pool Service,INV-1081,49.51,30.35,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:125,79.86
+JOB-4048,2026-04-05,C022,Sarah Chen,Weekly Pool Service,INV-1048,42.72,26.19,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:126,68.91
+JOB-4047,2026-04-04,C018,James O'Brien,Weekly Pool Service,INV-1047,51.92,31.83,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:127,83.75
+JOB-4050,2026-04-02,C015,Aisha Patel,Weekly Pool Service,INV-1050,47.86,29.33,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:128,77.19
+JOB-4080,2026-06-02,C015,Aisha Patel,Weekly Pool Service,INV-1080,46.98,28.8,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:129,75.78
+JOB-4121,2026-09-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1121,44.56,27.31,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:130,71.87
+JOB-4122,2026-09-04,C018,James O'Brien,Weekly Pool Service,INV-1122,52.1,31.94,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:131,84.04
+JOB-4049,2026-04-06,C024,Robert Alvarez,Weekly Pool Service,INV-1049,43.65,26.75,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:132,70.4
+JOB-4106,2026-08-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1106,44.34,27.18,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:133,71.52
+JOB-4026,2026-02-03,C019,Christopher Walsh,Weekly Pool Service,INV-1026,46.35,28.41,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:134,74.76
+JOB-4220,2026-09-16,C020,Cypress Walk HOA,HVAC Repair,INV-1220,662.84,406.25,12.9,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:135,1069.09
+JOB-4025,2026-02-02,C004,Priya Nair,Weekly Pool Service,INV-1025,45.86,28.11,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:136,73.97
+JOB-4046,2026-04-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1046,43.86,26.88,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:137,70.74
+JOB-4010,2026-01-02,C004,Priya Nair,Weekly Pool Service,INV-1010,49.2,30.15,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:138,79.35
+JOB-4157,2026-11-04,C007,Elena Rossi,Weekly Pool Service,INV-1157,47.03,28.82,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:139,75.85
+JOB-4067,2026-05-04,C007,Elena Rossi,Weekly Pool Service,INV-1067,51.13,31.34,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:140,82.47
+JOB-4002,2026-01-04,C018,James O'Brien,Weekly Pool Service,INV-1002,46.51,28.5,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:141,75.01
+JOB-4164,2026-11-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1164,97.52,59.77,3.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:142,157.29
+JOB-4138,2026-10-05,C022,Sarah Chen,Weekly Pool Service,INV-1138,43.96,26.95,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:143,70.91
+JOB-4177,2026-03-07,C007,Elena Rossi,Pool Repair,INV-1177,474.88,291.06,11.1,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:144,765.94
+JOB-4247,2026-04-19,C012,Nicole Bennett,HVAC Repair,,0.0,0.0,,Andre T.,Cancelled,"Customer cancelled, unit under warranty elsewhere",jobs_expenses.xlsx:Jobs:145,0.0
+JOB-4024,2026-02-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1024,50.13,30.72,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:146,80.85
+JOB-4006,2026-01-03,C017,Michael Thompson,Weekly Pool Service,INV-1006,40.88,25.05,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:147,65.93
+JOB-4094,2026-07-06,C024,Robert Alvarez,Weekly Pool Service,INV-1094,49.82,30.54,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:148,80.36
+JOB-4051,2026-04-03,C017,Michael Thompson,Weekly Pool Service,INV-1051,44.34,27.18,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:149,71.52
+JOB-4179,2026-03-16,C002,Ocean Palms HOA,Equipment Install,INV-1179,2129.69,3955.13,40.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:150,6084.82
+JOB-4245,2026-06-19,,Unknown walk-in,Pool Repair,,180.0,95.0,3.0,Luis M.,Completed,Name not in customer list,jobs_expenses.xlsx:Jobs:151,275.0
+JOB-4019,2026-02-06,C024,Robert Alvarez,Weekly Pool Service,INV-1019,41.99,25.73,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:152,67.72
+JOB-4086,2026-06-03,C019,Christopher Walsh,Weekly Pool Service,INV-1086,44.66,27.38,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:153,72.04
+JOB-4218,2026-09-09,C023,Thomas Grant,Equipment Install,INV-1218,1689.8,3138.2,30.4,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:154,4828.0
+JOB-4011,2026-01-03,C019,Christopher Walsh,Weekly Pool Service,INV-1011,46.64,28.59,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:155,75.23
+JOB-4233,2026-11-10,C014,Harbor Oaks Property Management,HVAC Repair,INV-1233,480.33,294.39,10.8,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:156,774.72
+JOB-4056,2026-04-03,C019,Christopher Walsh,Weekly Pool Service,INV-1056,46.66,28.59,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:157,75.25
+JOB-4113,2026-08-05,C003,David Kim,Weekly Pool Service,INV-1113,40.55,24.85,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:158,65.4
+JOB-4219,2026-09-10,C011,Lauren Brooks,HVAC Repair,INV-1219,232.31,142.39,4.7,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:159,374.7
+JOB-4176,2026-03-03,C014,Harbor Oaks Property Management,HVAC Maintenance,INV-1176,716.88,439.38,16.8,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:160,1156.26
+JOB-4150,2026-10-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1150,92.88,56.93,5.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:161,149.81
+JOB-4090,2026-06-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1090,93.88,57.54,6.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:162,151.42
+JOB-4182,2026-03-28,C005,Sofia Marino,Pool Repair,INV-1182,313.32,192.03,5.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:163,505.35
+JOB-4154,2026-11-06,C024,Robert Alvarez,Weekly Pool Service,INV-1154,49.79,30.52,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:164,80.31
+JOB-4200,2026-06-18,C011,Lauren Brooks,HVAC Repair,INV-1200,232.57,142.55,4.2,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:165,375.12
+JOB-4158,2026-11-05,C003,David Kim,Weekly Pool Service,INV-1158,41.8,25.62,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:166,67.42
+JOB-4030,2026-02-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1030,95.68,58.65,3.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:167,154.33
+JOB-4115,2026-08-02,C004,Priya Nair,Weekly Pool Service,INV-1115,42.73,26.19,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:168,68.92
+JOB-4210,2026-08-05,C011,Lauren Brooks,HVAC Repair,INV-1210,473.58,290.26,8.4,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:169,763.84
+JOB-4084,2026-06-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1084,58.29,35.72,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:170,94.01
+JOB-4097,2026-07-04,C007,Elena Rossi,Weekly Pool Service,INV-1097,45.68,28.0,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:171,73.68
+JOB-4108,2026-08-05,C022,Sarah Chen,Weekly Pool Service,INV-1108,42.2,25.87,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:172,68.07
+JOB-4136,2026-10-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1136,45.5,27.88,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:173,73.38
+JOB-4129,2026-09-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1129,53.54,32.81,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:174,86.35
+JOB-4207,2026-07-22,C014,Harbor Oaks Property Management,Equipment Install,INV-1207,1088.72,2021.91,21.4,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:175,3110.63
+JOB-4058,2026-04-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1058,116.31,71.28,6.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:176,187.59
+JOB-4124,2026-09-06,C024,Robert Alvarez,Weekly Pool Service,INV-1124,45.86,28.1,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:177,73.96
+JOB-4127,2026-09-04,C007,Elena Rossi,Weekly Pool Service,INV-1127,47.67,29.22,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:178,76.89
+JOB-4008,2026-01-05,C003,David Kim,Weekly Pool Service,INV-1008,45.43,27.85,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:179,73.28
+JOB-4159,2026-11-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1159,53.7,32.91,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:180,86.61
+JOB-4227,2026-10-13,C006,Hassan Farouk,Pool Repair,INV-1227,354.45,217.24,7.6,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:181,571.69
+JOB-4184,2026-04-07,C010,Kevin Doyle,Pool Repair,INV-1184,532.8,326.55,12.2,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:182,859.35
+JOB-4241,2026-09-28,C011,Lauren Brooks,HVAC Repair,INV-1241,287.22,176.04,5.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:183,463.26
+JOB-4100,2026-07-02,C004,Priya Nair,Weekly Pool Service,INV-1100,47.01,28.82,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:184,75.83
+JOB-4231,2026-11-03,C010,Kevin Doyle,Pool Repair,INV-1231,222.96,136.65,4.8,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:185,359.61
+JOB-4023,2026-02-05,C003,David Kim,Weekly Pool Service,INV-1023,44.16,27.06,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:186,71.22
+JOB-4014,2026-01-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1014,93.09,57.06,3.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:187,150.15
+JOB-4082,2026-06-04,C007,Elena Rossi,Weekly Pool Service,INV-1082,45.19,27.7,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:188,72.89
+JOB-4132,2026-09-04,C005,Sofia Marino,Weekly Pool Service,INV-1132,52.55,32.2,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:189,84.75
+JOB-4243,2026-10-08,C010,Kevin Doyle,Pool Repair,INV-1243,146.32,89.68,3.1,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:190,236.0
+JOB-4068,2026-05-05,C003,David Kim,Weekly Pool Service,INV-1068,45.5,27.89,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:191,73.39
+JOB-4165,2026-11-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1165,83.8,51.36,5.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:192,135.16
+JOB-4095,2026-07-02,C015,Aisha Patel,Weekly Pool Service,INV-1095,50.84,31.16,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:193,82.0
+JOB-4092,2026-07-04,C018,James O'Brien,Weekly Pool Service,INV-1092,54.59,33.46,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:194,88.05
+JOB-4062,2026-05-04,C018,James O'Brien,Weekly Pool Service,INV-1062,53.13,32.57,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:195,85.7
+JOB-4063,2026-05-05,C022,Sarah Chen,Weekly Pool Service,INV-1063,41.44,25.4,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:196,66.84
+JOB-4085,2026-06-02,C004,Priya Nair,Weekly Pool Service,INV-1085,45.53,27.9,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:197,73.43
+JOB-4043,2026-03-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1043,106.58,65.33,3.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:198,171.91
+JOB-4209,2026-07-28,C023,Thomas Grant,HVAC Repair,INV-1209,400.89,245.7,8.6,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:199,646.59
+JOB-4118,2026-08-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1118,119.46,73.22,4.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:200,192.68
+JOB-4099,2026-07-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1099,56.74,34.77,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:201,91.51
+JOB-4170,2026-01-28,C010,Kevin Doyle,Pool Repair,INV-1170,148.55,91.05,3.1,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:202,239.6
+JOB-4239,2026-09-04,C018,James O'Brien,Pool Repair,INV-1239,723.47,443.42,15.9,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:203,1166.89
+JOB-4110,2026-08-02,C015,Aisha Patel,Weekly Pool Service,INV-1110,46.99,28.8,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:204,75.79
+JOB-4071,2026-05-03,C019,Christopher Walsh,Weekly Pool Service,INV-1071,49.16,30.13,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:205,79.29
+JOB-4035,2026-03-02,C015,Aisha Patel,Weekly Pool Service,INV-1035,49.36,30.25,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:206,79.61
+JOB-4149,2026-10-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1149,104.84,64.26,6.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:207,169.1
+JOB-4131,2026-09-03,C019,Christopher Walsh,Weekly Pool Service,INV-1131,44.96,27.56,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:208,72.52
+JOB-4153,2026-11-05,C022,Sarah Chen,Weekly Pool Service,INV-1153,41.73,25.58,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:209,67.31
+JOB-4228,2026-10-17,C025,Breeze Bay Club LLC,HVAC Repair,INV-1228,548.53,336.2,10.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:210,884.73
+JOB-4087,2026-06-04,C005,Sofia Marino,Weekly Pool Service,INV-1087,58.76,36.01,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:211,94.77
+JOB-4017,2026-02-04,C018,James O'Brien,Weekly Pool Service,INV-1017,53.42,32.74,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:212,86.16
+JOB-4040,2026-03-02,C004,Priya Nair,Weekly Pool Service,INV-1040,49.7,30.46,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:213,80.16
+JOB-4133,2026-09-03,C002,Ocean Palms HOA,Weekly Pool Service,INV-1133,115.84,71.0,5.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:214,186.84
+JOB-4222,2026-09-21,C014,Harbor Oaks Property Management,HVAC Maintenance,INV-1222,697.27,427.36,14.6,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:215,1124.63
+JOB-4037,2026-03-04,C007,Elena Rossi,Weekly Pool Service,INV-1037,47.92,29.37,2.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:216,77.29
+JOB-4117,2026-08-04,C005,Sofia Marino,Weekly Pool Service,INV-1117,56.79,34.81,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:217,91.6
+JOB-4064,2026-05-06,C024,Robert Alvarez,Weekly Pool Service,INV-1064,47.8,29.3,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:218,77.1
+JOB-4242,2026-10-03,C020,Cypress Walk HOA,Pool Repair,INV-1242,453.28,277.82,8.7,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:219,731.1
+JOB-4183,2026-04-02,C012,Nicole Bennett,HVAC Maintenance,INV-1183,59.33,36.36,1.2,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:220,95.69
+JOB-4190,2026-05-04,C011,Lauren Brooks,HVAC Repair,INV-1190,782.16,479.39,13.9,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:221,1261.55
+JOB-4160,2026-11-02,C004,Priya Nair,Weekly Pool Service,INV-1160,48.4,29.66,2.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:222,78.06
+JOB-4070,2026-05-02,C004,Priya Nair,Weekly Pool Service,INV-1070,43.49,26.66,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:223,70.15
+JOB-4116,2026-08-03,C019,Christopher Walsh,Weekly Pool Service,INV-1116,48.98,30.02,1.5,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:224,79.0
+JOB-4083,2026-06-05,C003,David Kim,Weekly Pool Service,INV-1083,43.03,26.37,1.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:225,69.4
+JOB-4236,2026-11-17,C001,Jasmine Cole,Pool Repair,INV-1236,183.84,112.67,3.2,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:226,296.51
+JOB-4246,2026-09-15,,do not use - test row,HVAC Maintenance,,0.0,0.0,,nan,nan,Looks like a test row,jobs_expenses.xlsx:Jobs:227,0.0
+JOB-4089,2026-06-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1089,91.47,56.07,3.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:228,147.54
+JOB-4098,2026-07-05,C003,David Kim,Weekly Pool Service,INV-1098,45.52,27.9,2.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:229,73.42
+JOB-4130,2026-09-02,C004,Priya Nair,Weekly Pool Service,INV-1130,44.4,27.22,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:230,71.62
+JOB-4069,2026-05-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1069,55.5,34.01,2.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:231,89.51
+JOB-4172,2026-02-11,C001,Jasmine Cole,Pool Repair,INV-1172,294.95,180.77,5.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:232,475.72
+JOB-4016,2026-02-03,C009,Maria Gonzalez,Weekly Pool Service,INV-1016,51.66,31.66,2.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:233,83.32
+JOB-4015,2026-01-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1015,87.15,53.42,6.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:234,140.57
+JOB-4203,2026-07-02,C012,Nicole Bennett,HVAC Repair,INV-1203,551.52,338.03,12.1,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:235,889.55
+JOB-4057,2026-04-04,C005,Sofia Marino,Weekly Pool Service,INV-1057,54.46,33.38,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:236,87.84
+JOB-4168,2026-01-19,C025,Breeze Bay Club LLC,HVAC Maintenance,INV-1168,517.28,317.04,9.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:237,834.32
+JOB-4045,2026-03-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1045,83.27,51.03,4.0,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:238,134.3
+JOB-4216,2026-08-26,C010,Kevin Doyle,HVAC Repair,INV-1216,550.27,337.26,11.1,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:239,887.53
+JOB-4217,2026-09-02,C025,Breeze Bay Club LLC,HVAC Maintenance,INV-1217,537.76,329.6,10.9,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:240,867.36
+JOB-4119,2026-08-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1119,98.08,60.11,5.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:241,158.19
+JOB-4139,2026-10-06,C024,Robert Alvarez,Weekly Pool Service,INV-1139,42.88,26.28,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:242,69.16
+JOB-4174,2026-02-20,C013,Patrick Nguyen,HVAC Repair,INV-1174,502.23,307.82,9.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:243,810.05
+JOB-4120,2026-08-05,C020,Cypress Walk HOA,Weekly Pool Service,INV-1120,86.18,52.82,4.0,Keisha P.,Completed,nan,jobs_expenses.xlsx:Jobs:244,139.0
+JOB-4079,2026-06-06,C024,Robert Alvarez,Weekly Pool Service,INV-1079,46.55,28.53,2.5,Luis M.,Completed,nan,jobs_expenses.xlsx:Jobs:245,75.08
+JOB-4114,2026-08-06,C008,Anthony Ruiz,Weekly Pool Service,INV-1114,58.73,35.99,1.5,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:246,94.72
+JOB-4029,2026-02-04,C016,Riviera Court Condos,Weekly Pool Service,INV-1029,93.15,57.09,4.0,Andre T.,Completed,nan,jobs_expenses.xlsx:Jobs:247,150.24

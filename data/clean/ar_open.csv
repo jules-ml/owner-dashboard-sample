@@ -1,0 +1,18 @@
+invoice_id,customer_name,service_line,invoice_date,due_date,amount,amount_paid,balance,days_past_due,aging_bucket,status
+INV-1184,Kevin Doyle,Pool Repair,2026-04-08,2026-04-23,1560.0,959.43,600.57,216,90+,Partial
+INV-1206,Ocean Palms HOA,Pool Repair,2026-07-16,2026-08-15,2140.0,0.0,2140.0,102,90+,Open
+INV-1207,Harbor Oaks Property Management,Equipment Install,2026-07-22,2026-08-21,4500.0,0.0,4500.0,96,90+,Open
+INV-1239,James O'Brien,Pool Repair,2026-09-04,2026-09-19,2140.0,0.0,2140.0,67,61–90,Open
+INV-1219,Lauren Brooks,HVAC Repair,2026-09-12,2026-09-27,740.0,347.76,392.24,59,31–60,Partial
+INV-1240,Riviera Court Condos,HVAC Maintenance,2026-09-08,2026-10-08,1875.0,0.0,1875.0,48,31–60,Open
+INV-1241,Lauren Brooks,HVAC Repair,2026-09-28,2026-10-13,890.0,0.0,890.0,43,31–60,Open
+INV-1243,Kevin Doyle,Pool Repair,2026-10-08,2026-10-23,425.0,0.0,425.0,33,31–60,Open
+INV-1242,Cypress Walk HOA,Pool Repair,2026-10-03,2026-11-02,1240.0,0.0,1240.0,23,1–30,Open
+INV-1244,Diane Moreau,HVAC Repair,2026-10-19,2026-11-03,1150.0,0.0,1150.0,22,1–30,Open
+INV-1226,Ocean Palms HOA,Equipment Install,2026-10-09,2026-11-08,9200.0,7060.0,2140.0,17,1–30,Partial
+INV-1234,Diane Moreau,Equipment Install,2026-11-12,2026-11-27,4800.0,0.0,4800.0,-2,Current,Open
+INV-1163,Ocean Palms HOA,Weekly Pool Service,2026-11-02,2026-12-02,445.2,0.0,445.2,-7,Current,Open
+INV-1164,Riviera Court Condos,Weekly Pool Service,2026-11-03,2026-12-03,380.0,0.0,380.0,-8,Current,Open
+INV-1237,Elena Rossi,HVAC Repair,2026-11-19,2026-12-04,760.0,0.0,760.0,-9,Current,Open
+INV-1165,Cypress Walk HOA,Weekly Pool Service,2026-11-04,2026-12-04,350.0,0.0,350.0,-9,Current,Open
+INV-1233,Harbor Oaks Property Management,HVAC Repair,2026-11-10,2026-12-10,1480.0,0.0,1480.0,-15,Current,Open

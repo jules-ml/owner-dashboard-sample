@@ -1,0 +1,505 @@
+{
+  "summary": {
+    "raw_invoice_rows": 249,
+    "duplicate_invoice_rows_dropped": 4,
+    "clean_invoices": 245,
+    "clean_payments": 231,
+    "customer_variants_in": 89,
+    "customers_after_merge": 25,
+    "customer_groups_merged": 25,
+    "dates_standardized": 720,
+    "amounts_parsed": 481,
+    "service_lines_standardized": 249,
+    "unparseable_dates": 2,
+    "unparseable_amounts": 3,
+    "rows_flagged": 16,
+    "orphan_jobs": 2,
+    "duplicate_expense_rows_dropped": 1,
+    "clean_jobs": 247,
+    "clean_expenses": 78,
+    "clean_leads": 46
+  },
+  "counts": {
+    "unparseable_amount": 3,
+    "date_fixed": 1,
+    "unparseable_date": 2,
+    "duplicate_row_dropped": 5,
+    "customer_merged": 25,
+    "flagged": 9,
+    "orphan_job": 2
+  },
+  "events": [
+    {
+      "kind": "unparseable_amount",
+      "message": "Invoice amount could not be parsed: 'tbd'",
+      "record": "invoices_payments.csv:row75",
+      "extra": {
+        "invoice": "1032"
+      }
+    },
+    {
+      "kind": "date_fixed",
+      "message": "Invoice date 2027-03-02 looked like a typo and was set to 2026-03-02",
+      "record": "invoices_payments.csv:row97",
+      "extra": {
+        "invoice": "1036"
+      }
+    },
+    {
+      "kind": "unparseable_amount",
+      "message": "Invoice amount could not be parsed: '??'",
+      "record": "invoices_payments.csv:row110",
+      "extra": {
+        "invoice": "1033"
+      }
+    },
+    {
+      "kind": "unparseable_date",
+      "message": "Invoice date could not be parsed: '00/00/0000'",
+      "record": "invoices_payments.csv:row128",
+      "extra": {
+        "invoice": "1035"
+      }
+    },
+    {
+      "kind": "unparseable_amount",
+      "message": "Invoice amount could not be parsed: '#REF!'",
+      "record": "invoices_payments.csv:row219",
+      "extra": {
+        "invoice": "1031"
+      }
+    },
+    {
+      "kind": "unparseable_date",
+      "message": "Invoice date could not be parsed: '00/00/0000'",
+      "record": "invoices_payments.csv:row238",
+      "extra": {
+        "invoice": "1034"
+      }
+    },
+    {
+      "kind": "duplicate_row_dropped",
+      "message": "Exact duplicate invoice-export row dropped",
+      "record": "invoices_payments.csv:row63",
+      "extra": {
+        "invoice": "1043"
+      }
+    },
+    {
+      "kind": "duplicate_row_dropped",
+      "message": "Exact duplicate invoice-export row dropped",
+      "record": "invoices_payments.csv:row136",
+      "extra": {
+        "invoice": "1004"
+      }
+    },
+    {
+      "kind": "duplicate_row_dropped",
+      "message": "Exact duplicate invoice-export row dropped",
+      "record": "invoices_payments.csv:row168",
+      "extra": {
+        "invoice": "1019"
+      }
+    },
+    {
+      "kind": "duplicate_row_dropped",
+      "message": "Exact duplicate invoice-export row dropped",
+      "record": "invoices_payments.csv:row212",
+      "extra": {
+        "invoice": "1078"
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Jasmine Cole'",
+      "record": "C001",
+      "extra": {
+        "variants": [
+          "Cole, Jasmine",
+          "J. Cole",
+          "Jasmine Cole"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Ocean Palms HOA'",
+      "record": "C002",
+      "extra": {
+        "variants": [
+          "Ocean Palms H.O.A.",
+          "Ocean Palms HOA",
+          "Ocean Palms Hoa",
+          "Ocean Palms Hoa Inc"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'David Kim'",
+      "record": "C003",
+      "extra": {
+        "variants": [
+          "D. Kim",
+          "David Kim",
+          "Kim, David",
+          "david kim"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Priya Nair'",
+      "record": "C004",
+      "extra": {
+        "variants": [
+          "Nair, Priya",
+          "P. Nair",
+          "PRIYA NAIR",
+          "Priya Nair"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Sofia Marino'",
+      "record": "C005",
+      "extra": {
+        "variants": [
+          "Marino, Sofia",
+          "S Marino",
+          "Sofia Marino"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 2 name variants into 'Hassan Farouk'",
+      "record": "C006",
+      "extra": {
+        "variants": [
+          "H. Farouk",
+          "Hassan Farouk"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Elena Rossi'",
+      "record": "C007",
+      "extra": {
+        "variants": [
+          "ELENA ROSSI",
+          "Elena Rossi",
+          "Rossi, Elena"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Anthony Ruiz'",
+      "record": "C008",
+      "extra": {
+        "variants": [
+          "Anthony  Ruiz",
+          "Anthony Ruiz",
+          "Tony Ruiz"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 5 name variants into 'Maria Gonzalez'",
+      "record": "C009",
+      "extra": {
+        "variants": [
+          "Gonzalez, Maria",
+          "M. Gonzalez",
+          "MARIA GONZALEZ",
+          "Maria Gonzales",
+          "Maria Gonzalez"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Kevin Doyle'",
+      "record": "C010",
+      "extra": {
+        "variants": [
+          "Doyle, Kevin",
+          "K Doyle",
+          "Kevin Doyle"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Lauren Brooks'",
+      "record": "C011",
+      "extra": {
+        "variants": [
+          "Brooks, Lauren",
+          "L Brooks",
+          "Lauren Brooks",
+          "lauren brooks"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Nicole Bennett'",
+      "record": "C012",
+      "extra": {
+        "variants": [
+          "Bennett, Nicole",
+          "N. Bennett",
+          "NICOLE BENNETT"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Patrick Nguyen'",
+      "record": "C013",
+      "extra": {
+        "variants": [
+          "P. Nguyen",
+          "Pat Nguyen",
+          "Patrick Nguyen"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Harbor Oaks Property Management'",
+      "record": "C014",
+      "extra": {
+        "variants": [
+          "Harbor Oaks PM",
+          "Harbor Oaks Property Management",
+          "Harbor Oaks Property Mgmt",
+          "Harbor Oaks Property Mgmt."
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Aisha Patel'",
+      "record": "C015",
+      "extra": {
+        "variants": [
+          "Aisha  Patel",
+          "Aisha Patel",
+          "Patel, Aisha"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Riviera Court Condos'",
+      "record": "C016",
+      "extra": {
+        "variants": [
+          "Riviera Court Condo",
+          "Riviera Court Condo Assoc",
+          "Riviera Court Condos",
+          "Riviera Court Condos Inc"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Michael Thompson'",
+      "record": "C017",
+      "extra": {
+        "variants": [
+          "M Thompson",
+          "Michael Thompson",
+          "Mike Thompson",
+          "Thompson, Michael"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 5 name variants into 'James O'Brien'",
+      "record": "C018",
+      "extra": {
+        "variants": [
+          "J. O'Brien",
+          "James O Brien",
+          "James O'Brien",
+          "Jim OBrien",
+          "O'Brien, James"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Christopher Walsh'",
+      "record": "C019",
+      "extra": {
+        "variants": [
+          "C. Walsh",
+          "Chris Walsh",
+          "Christopher Walsh",
+          "Walsh, Christopher"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Cypress Walk HOA'",
+      "record": "C020",
+      "extra": {
+        "variants": [
+          "Cypress Walk Assn",
+          "Cypress Walk Assoc",
+          "Cypress Walk Association",
+          "Cypress Walk HOA"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Diane Moreau'",
+      "record": "C021",
+      "extra": {
+        "variants": [
+          "D. Moreau",
+          "Diane Moreau",
+          "Moreau, Diane"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Sarah Chen'",
+      "record": "C022",
+      "extra": {
+        "variants": [
+          "Chen, Sarah",
+          "S. Chen",
+          "Sarah Chen",
+          "sara chen"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Thomas Grant'",
+      "record": "C023",
+      "extra": {
+        "variants": [
+          "T. Grant",
+          "Thomas Grant",
+          "Tom Grant"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 3 name variants into 'Robert Alvarez'",
+      "record": "C024",
+      "extra": {
+        "variants": [
+          "Alvarez, Robert",
+          "Bob Alvarez",
+          "R. Alvarez"
+        ]
+      }
+    },
+    {
+      "kind": "customer_merged",
+      "message": "Merged 4 name variants into 'Breeze Bay Club LLC'",
+      "record": "C025",
+      "extra": {
+        "variants": [
+          "Breeze Bay Club",
+          "Breeze Bay Club LLC",
+          "Breeze Bay Club, LLC",
+          "BreezeBay Club"
+        ]
+      }
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1031 has no parseable amount; excluded from revenue and AR totals",
+      "record": "INV-1031",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1032 has no parseable amount; excluded from revenue and AR totals",
+      "record": "INV-1032",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1033 has no parseable amount; excluded from revenue and AR totals",
+      "record": "INV-1033",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1034 has no parseable invoice date; excluded from monthly charts",
+      "record": "INV-1034",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1035 has no parseable invoice date; excluded from monthly charts",
+      "record": "INV-1035",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "INV-1061 is overpaid by $40.00",
+      "record": "INV-1061",
+      "extra": {
+        "overpay": 40.0
+      }
+    },
+    {
+      "kind": "orphan_job",
+      "message": "Job 4245 has no matching customer ('Unknown walk-in')",
+      "record": "jobs_expenses.xlsx:Jobs:151",
+      "extra": {
+        "name": "Unknown walk-in"
+      }
+    },
+    {
+      "kind": "orphan_job",
+      "message": "Job 4246 has no matching customer ('do not use - test row')",
+      "record": "jobs_expenses.xlsx:Jobs:227",
+      "extra": {
+        "name": "do not use - test row"
+      }
+    },
+    {
+      "kind": "duplicate_row_dropped",
+      "message": "Duplicate expense row dropped (Gulf Sample Fuel Card, 2026-01-09, 1047.03)",
+      "record": "jobs_expenses.xlsx:Expenses:79",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "Lead is missing a status",
+      "record": "crm_leads.csv:row3",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "Lead is missing a status",
+      "record": "crm_leads.csv:row36",
+      "extra": {}
+    },
+    {
+      "kind": "flagged",
+      "message": "Lead is missing a status",
+      "record": "crm_leads.csv:row39",
+      "extra": {}
+    }
+  ]
+}
