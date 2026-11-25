@@ -1,0 +1,6 @@
+service_line,revenue,direct_cost,gross_profit,margin_pct,invoice_count
+Weekly Pool Service,36202.6,15499.9,20702.7,0.5719,160
+Pool Repair,20420.0,12011.41,8408.59,0.4118,22
+HVAC Maintenance,14065.0,6794.69,7270.31,0.5169,14
+HVAC Repair,52610.0,28384.25,24225.75,0.4605,35
+Equipment Install,60500.0,43869.4,16630.6,0.2749,9
